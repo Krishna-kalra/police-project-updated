@@ -1,14 +1,9482 @@
 [
-  { "id": "flag_1", "name": "Flag Point 1", "category": "Flag Post", "lat": 28.672809, "lon": 77.413845, "emoji": "🚩" },
-  { "id": "flag_2", "name": "Flag Point 2", "category": "Flag Post", "lat": 28.455224, "lon": 77.454525, "emoji": "🚩" },
-  { "id": "flag_3", "name": "Flag Point 3", "category": "Flag Post", "lat": 28.565421, "lon": 77.526521, "emoji": "🚩" },
-  { "id": "flag_4", "name": "Flag Point 4", "category": "Flag Post", "lat": 28.381961, "lon": 77.272702, "emoji": "🚩" },
-  { "id": "flag_5", "name": "Flag Point 5", "category": "Flag Post", "lat": 28.672540, "lon": 77.408542, "emoji": "🚩" },
-  { "id": "flag_6", "name": "Flag Point 6", "category": "Flag Post", "lat": 28.662932, "lon": 77.423781, "emoji": "🚩" },
-  { "id": "flag_7", "name": "Flag Point 7", "category": "Flag Post", "lat": 28.662945, "lon": 77.423748, "emoji": "🚩" },
-  { "id": "flag_8", "name": "Flag Point 8", "category": "Flag Post", "lat": 28.649948, "lon": 77.420624, "emoji": "🚩" },
-  { "id": "flag_9", "name": "Flag Point 9", "category": "Flag Post", "lat": 28.649900, "lon": 77.420700, "emoji": "🚩" },
-  { "id": "flag_10", "name": "Flag Point 10", "category": "Flag Post", "lat": 28.658854, "lon": 77.4203103, "emoji": "🚩" },
-  { "id": "flag_11", "name": "Flag Point 11", "category": "Flag Post", "lat": 28.642000, "lon": 77.421700, "emoji": "🚩" },
-  { "id": "flag_12", "name": "Flag Point 12", "category": "Flag Post", "lat": 28.645486, "lon": 77.421682, "emoji": "🚩" }
+  {
+    "id": "hta_1",
+    "name": "High Tension Area Location 1",
+    "category": "High Tension Area",
+    "lat": 28.670523,
+    "lon": 77.45853,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_2",
+    "name": "High Tension Area Location 2",
+    "category": "High Tension Area",
+    "lat": 28.69321,
+    "lon": 77.4006,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_3",
+    "name": "High Tension Area Location 3",
+    "category": "High Tension Area",
+    "lat": 28.3825,
+    "lon": 77.4185,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_4",
+    "name": "High Tension Area Location 4",
+    "category": "High Tension Area",
+    "lat": 28.6699,
+    "lon": 77.4328,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_5",
+    "name": "High Tension Area Location 5",
+    "category": "High Tension Area",
+    "lat": 28.6734,
+    "lon": 77.4064,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_6",
+    "name": "High Tension Area Location 6",
+    "category": "High Tension Area",
+    "lat": 28.63138,
+    "lon": 77.351157,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_7",
+    "name": "High Tension Area Location 7",
+    "category": "High Tension Area",
+    "lat": 28.63107,
+    "lon": 77.351157,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_8",
+    "name": "High Tension Area Location 8",
+    "category": "High Tension Area",
+    "lat": 28.624011,
+    "lon": 77.35105,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_9",
+    "name": "High Tension Area Location 9",
+    "category": "High Tension Area",
+    "lat": 28.624913,
+    "lon": 77.35198,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_10",
+    "name": "High Tension Area Location 10",
+    "category": "High Tension Area",
+    "lat": 28.693165,
+    "lon": 77.345838,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_11",
+    "name": "High Tension Area Location 11",
+    "category": "High Tension Area",
+    "lat": 28.692408,
+    "lon": 77.348059,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_12",
+    "name": "High Tension Area Location 12",
+    "category": "High Tension Area",
+    "lat": 28.689361,
+    "lon": 77.355975,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_13",
+    "name": "High Tension Area Location 13",
+    "category": "High Tension Area",
+    "lat": 28.707091,
+    "lon": 77.550295,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_14",
+    "name": "High Tension Area Location 14",
+    "category": "High Tension Area",
+    "lat": 28.690221,
+    "lon": 77.558044,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_15",
+    "name": "High Tension Area Location 15",
+    "category": "High Tension Area",
+    "lat": 28.781477,
+    "lon": 77.501187,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_16",
+    "name": "High Tension Area Location 16",
+    "category": "High Tension Area",
+    "lat": 28.779523,
+    "lon": 77.506587,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_17",
+    "name": "High Tension Area Location 17",
+    "category": "High Tension Area",
+    "lat": 28.77004,
+    "lon": 77.510291,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_18",
+    "name": "High Tension Area Location 18",
+    "category": "High Tension Area",
+    "lat": 28.784936,
+    "lon": 77.498495,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_19",
+    "name": "High Tension Area Location 19",
+    "category": "High Tension Area",
+    "lat": 28.778528,
+    "lon": 77.518335,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_20",
+    "name": "High Tension Area Location 20",
+    "category": "High Tension Area",
+    "lat": 28.775103,
+    "lon": 77.515408,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_21",
+    "name": "High Tension Area Location 21",
+    "category": "High Tension Area",
+    "lat": 28.769814,
+    "lon": 77.510426,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_22",
+    "name": "High Tension Area Location 22",
+    "category": "High Tension Area",
+    "lat": 28.758908,
+    "lon": 77.500402,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_23",
+    "name": "High Tension Area Location 23",
+    "category": "High Tension Area",
+    "lat": 28.762432,
+    "lon": 77.503641,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_24",
+    "name": "High Tension Area Location 24",
+    "category": "High Tension Area",
+    "lat": 28.714334,
+    "lon": 77.302354,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hta_25",
+    "name": "High Tension Area Location 25",
+    "category": "High Tension Area",
+    "lat": 28.710452,
+    "lon": 77.291672,
+    "emoji": "⚡"
+  },
+  {
+    "id": "hs_1",
+    "name": "Hockey Stick Location 1",
+    "category": "Hockey Stick",
+    "lat": 28.6573,
+    "lon": 77.41923,
+    "emoji": "🏒"
+  },
+  {
+    "id": "hs_2",
+    "name": "Hockey Stick Location 2",
+    "category": "Hockey Stick",
+    "lat": 28.6573,
+    "lon": 77.41923,
+    "emoji": "🏒"
+  },
+  {
+    "id": "hs_3",
+    "name": "Hockey Stick Location 3",
+    "category": "Hockey Stick",
+    "lat": 28.677826,
+    "lon": 77.476778,
+    "emoji": "🏒"
+  },
+  {
+    "id": "hs_4",
+    "name": "Hockey Stick Location 4",
+    "category": "Hockey Stick",
+    "lat": 28.835676,
+    "lon": 77.442112,
+    "emoji": "🏒"
+  },
+  {
+    "id": "hosp_1",
+    "name": "Hospital Location 1",
+    "category": "Hospital",
+    "lat": 28.625654,
+    "lon": 77.43253,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_2",
+    "name": "Hospital Location 2",
+    "category": "Hospital",
+    "lat": 28.648235,
+    "lon": 77.44421,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_3",
+    "name": "Hospital Location 3",
+    "category": "Hospital",
+    "lat": 28.662732,
+    "lon": 77.423726,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_4",
+    "name": "Hospital Location 4",
+    "category": "Hospital",
+    "lat": 28.645258,
+    "lon": 77.422026,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_5",
+    "name": "Hospital Location 5",
+    "category": "Hospital",
+    "lat": 28.647965,
+    "lon": 77.421298,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_6",
+    "name": "Hospital Location 6",
+    "category": "Hospital",
+    "lat": 28.657906,
+    "lon": 77.411496,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_7",
+    "name": "Hospital Location 7",
+    "category": "Hospital",
+    "lat": 28.66156,
+    "lon": 77.46326,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_8",
+    "name": "Hospital Location 8",
+    "category": "Hospital",
+    "lat": 28.655164,
+    "lon": 77.472467,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_9",
+    "name": "Hospital Location 9",
+    "category": "Hospital",
+    "lat": 28.685161,
+    "lon": 77.482269,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_10",
+    "name": "Hospital Location 10",
+    "category": "Hospital",
+    "lat": 28.630992,
+    "lon": 77.387393,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_11",
+    "name": "Hospital Location 11",
+    "category": "Hospital",
+    "lat": 28.667492,
+    "lon": 77.455209,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_12",
+    "name": "Hospital Location 12",
+    "category": "Hospital",
+    "lat": 28.728908,
+    "lon": 77.473412,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_13",
+    "name": "Hospital Location 13",
+    "category": "Hospital",
+    "lat": 28.724475,
+    "lon": 77.469375,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_14",
+    "name": "Hospital Location 14",
+    "category": "Hospital",
+    "lat": 28.706912,
+    "lon": 77.444921,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_15",
+    "name": "Hospital Location 15",
+    "category": "Hospital",
+    "lat": 28.698481,
+    "lon": 77.42591,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_16",
+    "name": "Hospital Location 16",
+    "category": "Hospital",
+    "lat": 28.675666,
+    "lon": 77.417148,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_17",
+    "name": "Hospital Location 17",
+    "category": "Hospital",
+    "lat": 28.682198,
+    "lon": 77.426636,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_18",
+    "name": "Hospital Location 18",
+    "category": "Hospital",
+    "lat": 28.691164,
+    "lon": 77.436724,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_19",
+    "name": "Hospital Location 19",
+    "category": "Hospital",
+    "lat": 28.693401,
+    "lon": 77.439886,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_20",
+    "name": "Hospital Location 20",
+    "category": "Hospital",
+    "lat": 28.693346,
+    "lon": 77.43796,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_21",
+    "name": "Hospital Location 21",
+    "category": "Hospital",
+    "lat": 28.69321,
+    "lon": 77.4006,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_22",
+    "name": "Hospital Location 22",
+    "category": "Hospital",
+    "lat": 28.680153,
+    "lon": 77.528531,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_23",
+    "name": "Hospital Location 23",
+    "category": "Hospital",
+    "lat": 28.683021,
+    "lon": 77.518355,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_24",
+    "name": "Hospital Location 24",
+    "category": "Hospital",
+    "lat": 28.680153,
+    "lon": 77.528531,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_25",
+    "name": "Hospital Location 25",
+    "category": "Hospital",
+    "lat": 28.65947,
+    "lon": 77.47686,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_26",
+    "name": "Hospital Location 26",
+    "category": "Hospital",
+    "lat": 28.659436,
+    "lon": 77.476879,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_27",
+    "name": "Hospital Location 27",
+    "category": "Hospital",
+    "lat": 28.628998,
+    "lon": 77.471708,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_28",
+    "name": "Hospital Location 28",
+    "category": "Hospital",
+    "lat": 28.62192,
+    "lon": 77.43251,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_29",
+    "name": "Hospital Location 29",
+    "category": "Hospital",
+    "lat": 28.635859,
+    "lon": 77.42604,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_30",
+    "name": "Hospital Location 30",
+    "category": "Hospital",
+    "lat": 28.639018,
+    "lon": 77.405912,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_31",
+    "name": "Hospital Location 31",
+    "category": "Hospital",
+    "lat": 28.634799,
+    "lon": 77.41049,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_32",
+    "name": "Hospital Location 32",
+    "category": "Hospital",
+    "lat": 28.638881,
+    "lon": 77.424649,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_33",
+    "name": "Hospital Location 33",
+    "category": "Hospital",
+    "lat": 28.6701,
+    "lon": 77.4445,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_34",
+    "name": "Hospital Location 34",
+    "category": "Hospital",
+    "lat": 28.679,
+    "lon": 77.341,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_35",
+    "name": "Hospital Location 35",
+    "category": "Hospital",
+    "lat": 28.6632,
+    "lon": 77.3486,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_36",
+    "name": "Hospital Location 36",
+    "category": "Hospital",
+    "lat": 28.6626,
+    "lon": 77.3438,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_37",
+    "name": "Hospital Location 37",
+    "category": "Hospital",
+    "lat": 28.64968,
+    "lon": 77.363501,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_38",
+    "name": "Hospital Location 38",
+    "category": "Hospital",
+    "lat": 28.645511,
+    "lon": 77.371815,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_39",
+    "name": "Hospital Location 39",
+    "category": "Hospital",
+    "lat": 28.654401,
+    "lon": 77.412227,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_40",
+    "name": "Hospital Location 40",
+    "category": "Hospital",
+    "lat": 28.652623,
+    "lon": 77.360147,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_41",
+    "name": "Hospital Location 41",
+    "category": "Hospital",
+    "lat": 28.659201,
+    "lon": 77.360698,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_42",
+    "name": "Hospital Location 42",
+    "category": "Hospital",
+    "lat": 28.641893,
+    "lon": 77.379287,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_43",
+    "name": "Hospital Location 43",
+    "category": "Hospital",
+    "lat": 28.666153,
+    "lon": 77.379516,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_44",
+    "name": "Hospital Location 44",
+    "category": "Hospital",
+    "lat": 28.671949,
+    "lon": 77.373344,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_45",
+    "name": "Hospital Location 45",
+    "category": "Hospital",
+    "lat": 28.637373,
+    "lon": 77.337797,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_46",
+    "name": "Hospital Location 46",
+    "category": "Hospital",
+    "lat": 28.635479,
+    "lon": 77.333095,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_47",
+    "name": "Hospital Location 47",
+    "category": "Hospital",
+    "lat": 28.645129,
+    "lon": 77.327895,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_48",
+    "name": "Hospital Location 48",
+    "category": "Hospital",
+    "lat": 28.690464,
+    "lon": 77.349557,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_49",
+    "name": "Hospital Location 49",
+    "category": "Hospital",
+    "lat": 28.693323,
+    "lon": 77.339899,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_50",
+    "name": "Hospital Location 50",
+    "category": "Hospital",
+    "lat": 28.687437,
+    "lon": 77.341305,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_51",
+    "name": "Hospital Location 51",
+    "category": "Hospital",
+    "lat": 28.725974,
+    "lon": 77.36839,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_52",
+    "name": "Hospital Location 52",
+    "category": "Hospital",
+    "lat": 28.730947,
+    "lon": 77.375762,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_53",
+    "name": "Hospital Location 53",
+    "category": "Hospital",
+    "lat": 28.727099,
+    "lon": 77.343658,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_54",
+    "name": "Hospital Location 54",
+    "category": "Hospital",
+    "lat": 28.726145,
+    "lon": 77.335846,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_55",
+    "name": "Hospital Location 55",
+    "category": "Hospital",
+    "lat": 28.722039,
+    "lon": 77.345203,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_56",
+    "name": "Hospital Location 56",
+    "category": "Hospital",
+    "lat": 28.693626,
+    "lon": 77.344377,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_57",
+    "name": "Hospital Location 57",
+    "category": "Hospital",
+    "lat": 28.693971,
+    "lon": 77.352599,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_58",
+    "name": "Hospital Location 58",
+    "category": "Hospital",
+    "lat": 28.86136,
+    "lon": 77.59714,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_59",
+    "name": "Hospital Location 59",
+    "category": "Hospital",
+    "lat": 28.84034,
+    "lon": 77.58173,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_60",
+    "name": "Hospital Location 60",
+    "category": "Hospital",
+    "lat": 28.84142,
+    "lon": 77.5813,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_61",
+    "name": "Hospital Location 61",
+    "category": "Hospital",
+    "lat": 28.84074,
+    "lon": 77.58076,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_62",
+    "name": "Hospital Location 62",
+    "category": "Hospital",
+    "lat": 28.84142,
+    "lon": 77.5813,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_63",
+    "name": "Hospital Location 63",
+    "category": "Hospital",
+    "lat": 28.83997,
+    "lon": 77.57931,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_64",
+    "name": "Hospital Location 64",
+    "category": "Hospital",
+    "lat": 28.84016,
+    "lon": 77.581189,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_65",
+    "name": "Hospital Location 65",
+    "category": "Hospital",
+    "lat": 28.83991,
+    "lon": 77.58048,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_66",
+    "name": "Hospital Location 66",
+    "category": "Hospital",
+    "lat": 28.84038,
+    "lon": 77.5809,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_67",
+    "name": "Hospital Location 67",
+    "category": "Hospital",
+    "lat": 28.873762,
+    "lon": 77.536894,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_68",
+    "name": "Hospital Location 68",
+    "category": "Hospital",
+    "lat": 28.771496,
+    "lon": 77.513131,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_69",
+    "name": "Hospital Location 69",
+    "category": "Hospital",
+    "lat": 28.79725,
+    "lon": 77.534157,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_70",
+    "name": "Hospital Location 70",
+    "category": "Hospital",
+    "lat": 28.771335,
+    "lon": 77.625721,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_71",
+    "name": "Hospital Location 71",
+    "category": "Hospital",
+    "lat": 28.798891,
+    "lon": 77.611982,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_72",
+    "name": "Hospital Location 72",
+    "category": "Hospital",
+    "lat": 28.784139,
+    "lon": 77.649895,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_73",
+    "name": "Hospital Location 73",
+    "category": "Hospital",
+    "lat": 28.688688,
+    "lon": 77.50563,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_74",
+    "name": "Hospital Location 74",
+    "category": "Hospital",
+    "lat": 28.689093,
+    "lon": 77.551539,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_75",
+    "name": "Hospital Location 75",
+    "category": "Hospital",
+    "lat": 28.688681,
+    "lon": 77.550301,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_76",
+    "name": "Hospital Location 76",
+    "category": "Hospital",
+    "lat": 28.689191,
+    "lon": 77.555948,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_77",
+    "name": "Hospital Location 77",
+    "category": "Hospital",
+    "lat": 28.67969,
+    "lon": 77.491163,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_78",
+    "name": "Hospital Location 78",
+    "category": "Hospital",
+    "lat": 28.67969,
+    "lon": 77.491163,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_79",
+    "name": "Hospital Location 79",
+    "category": "Hospital",
+    "lat": 28.681196,
+    "lon": 77.500031,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_80",
+    "name": "Hospital Location 80",
+    "category": "Hospital",
+    "lat": 28.680128,
+    "lon": 77.528584,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_81",
+    "name": "Hospital Location 81",
+    "category": "Hospital",
+    "lat": 28.776444,
+    "lon": 77.512569,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_82",
+    "name": "Hospital Location 82",
+    "category": "Hospital",
+    "lat": 28.776177,
+    "lon": 77.512945,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_83",
+    "name": "Hospital Location 83",
+    "category": "Hospital",
+    "lat": 28.776167,
+    "lon": 77.513037,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_84",
+    "name": "Hospital Location 84",
+    "category": "Hospital",
+    "lat": 28.771501,
+    "lon": 77.51138,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_85",
+    "name": "Hospital Location 85",
+    "category": "Hospital",
+    "lat": 28.778053,
+    "lon": 77.49618,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_86",
+    "name": "Hospital Location 86",
+    "category": "Hospital",
+    "lat": 28.783844,
+    "lon": 77.497282,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_87",
+    "name": "Hospital Location 87",
+    "category": "Hospital",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_88",
+    "name": "Hospital Location 88",
+    "category": "Hospital",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_89",
+    "name": "Hospital Location 89",
+    "category": "Hospital",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_90",
+    "name": "Hospital Location 90",
+    "category": "Hospital",
+    "lat": 28.771685,
+    "lon": 77.512201,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_91",
+    "name": "Hospital Location 91",
+    "category": "Hospital",
+    "lat": 28.771655,
+    "lon": 77.512183,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_92",
+    "name": "Hospital Location 92",
+    "category": "Hospital",
+    "lat": 28.77135,
+    "lon": 77.513129,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_93",
+    "name": "Hospital Location 93",
+    "category": "Hospital",
+    "lat": 28.754251,
+    "lon": 77.28602,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_94",
+    "name": "Hospital Location 94",
+    "category": "Hospital",
+    "lat": 28.749901,
+    "lon": 77.286499,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_95",
+    "name": "Hospital Location 95",
+    "category": "Hospital",
+    "lat": 28.743805,
+    "lon": 77.305641,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_96",
+    "name": "Hospital Location 96",
+    "category": "Hospital",
+    "lat": 28.743877,
+    "lon": 77.305319,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_97",
+    "name": "Hospital Location 97",
+    "category": "Hospital",
+    "lat": 28.743887,
+    "lon": 77.305057,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_98",
+    "name": "Hospital Location 98",
+    "category": "Hospital",
+    "lat": 28.74407,
+    "lon": 77.302958,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_99",
+    "name": "Hospital Location 99",
+    "category": "Hospital",
+    "lat": 28.744543,
+    "lon": 77.301164,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_100",
+    "name": "Hospital Location 100",
+    "category": "Hospital",
+    "lat": 28.743983,
+    "lon": 77.304353,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_101",
+    "name": "Hospital Location 101",
+    "category": "Hospital",
+    "lat": 28.751119,
+    "lon": 77.315875,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_102",
+    "name": "Hospital Location 102",
+    "category": "Hospital",
+    "lat": 28.77835,
+    "lon": 77.33431,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_103",
+    "name": "Hospital Location 103",
+    "category": "Hospital",
+    "lat": 28.72856,
+    "lon": 77.40429,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_104",
+    "name": "Hospital Location 104",
+    "category": "Hospital",
+    "lat": 28.813338,
+    "lon": 77.273833,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_105",
+    "name": "Hospital Location 105",
+    "category": "Hospital",
+    "lat": 28.811003,
+    "lon": 77.273414,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_106",
+    "name": "Hospital Location 106",
+    "category": "Hospital",
+    "lat": 28.812065,
+    "lon": 77.273679,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_107",
+    "name": "Hospital Location 107",
+    "category": "Hospital",
+    "lat": 28.774686,
+    "lon": 77.280283,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_108",
+    "name": "Hospital Location 108",
+    "category": "Hospital",
+    "lat": 28.774135,
+    "lon": 77.279826,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_109",
+    "name": "Hospital Location 109",
+    "category": "Hospital",
+    "lat": 28.766706,
+    "lon": 77.280279,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_110",
+    "name": "Hospital Location 110",
+    "category": "Hospital",
+    "lat": 28.719319,
+    "lon": 77.315569,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_111",
+    "name": "Hospital Location 111",
+    "category": "Hospital",
+    "lat": 28.724901,
+    "lon": 77.324695,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_112",
+    "name": "Hospital Location 112",
+    "category": "Hospital",
+    "lat": 28.713925,
+    "lon": 77.30101,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hosp_113",
+    "name": "Hospital Location 113",
+    "category": "Hospital",
+    "lat": 28.710863,
+    "lon": 77.292794,
+    "emoji": "🏥"
+  },
+  {
+    "id": "hd_1",
+    "name": "Hotel & Dhaba Location 1",
+    "category": "Hotel & Dhaba",
+    "lat": 28.62563,
+    "lon": 77.41256,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_2",
+    "name": "Hotel & Dhaba Location 2",
+    "category": "Hotel & Dhaba",
+    "lat": 28.25362,
+    "lon": 77.2541,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_3",
+    "name": "Hotel & Dhaba Location 3",
+    "category": "Hotel & Dhaba",
+    "lat": 28.21452,
+    "lon": 77.25142,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_4",
+    "name": "Hotel & Dhaba Location 4",
+    "category": "Hotel & Dhaba",
+    "lat": 28.25635,
+    "lon": 77.430925,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_5",
+    "name": "Hotel & Dhaba Location 5",
+    "category": "Hotel & Dhaba",
+    "lat": 28.5241,
+    "lon": 77.425362,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_6",
+    "name": "Hotel & Dhaba Location 6",
+    "category": "Hotel & Dhaba",
+    "lat": 28.645298,
+    "lon": 77.422026,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_7",
+    "name": "Hotel & Dhaba Location 7",
+    "category": "Hotel & Dhaba",
+    "lat": 28.651244,
+    "lon": 77.419832,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_8",
+    "name": "Hotel & Dhaba Location 8",
+    "category": "Hotel & Dhaba",
+    "lat": 28.641219,
+    "lon": 77.421889,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_9",
+    "name": "Hotel & Dhaba Location 9",
+    "category": "Hotel & Dhaba",
+    "lat": 28.657064,
+    "lon": 77.419183,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_10",
+    "name": "Hotel & Dhaba Location 10",
+    "category": "Hotel & Dhaba",
+    "lat": 28.731065,
+    "lon": 77.475433,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_11",
+    "name": "Hotel & Dhaba Location 11",
+    "category": "Hotel & Dhaba",
+    "lat": 28.726797,
+    "lon": 77.4715,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_12",
+    "name": "Hotel & Dhaba Location 12",
+    "category": "Hotel & Dhaba",
+    "lat": 28.728908,
+    "lon": 77.473412,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_13",
+    "name": "Hotel & Dhaba Location 13",
+    "category": "Hotel & Dhaba",
+    "lat": 28.730588,
+    "lon": 77.475015,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_14",
+    "name": "Hotel & Dhaba Location 14",
+    "category": "Hotel & Dhaba",
+    "lat": 28.730925,
+    "lon": 77.475328,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_15",
+    "name": "Hotel & Dhaba Location 15",
+    "category": "Hotel & Dhaba",
+    "lat": 28.730968,
+    "lon": 77.475357,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_16",
+    "name": "Hotel & Dhaba Location 16",
+    "category": "Hotel & Dhaba",
+    "lat": 28.731117,
+    "lon": 77.475465,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_17",
+    "name": "Hotel & Dhaba Location 17",
+    "category": "Hotel & Dhaba",
+    "lat": 28.727187,
+    "lon": 77.471458,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_18",
+    "name": "Hotel & Dhaba Location 18",
+    "category": "Hotel & Dhaba",
+    "lat": 28.727753,
+    "lon": 77.472009,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_19",
+    "name": "Hotel & Dhaba Location 19",
+    "category": "Hotel & Dhaba",
+    "lat": 28.725805,
+    "lon": 77.470593,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_20",
+    "name": "Hotel & Dhaba Location 20",
+    "category": "Hotel & Dhaba",
+    "lat": 28.726663,
+    "lon": 77.47145,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_21",
+    "name": "Hotel & Dhaba Location 21",
+    "category": "Hotel & Dhaba",
+    "lat": 28.715872,
+    "lon": 77.460888,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_22",
+    "name": "Hotel & Dhaba Location 22",
+    "category": "Hotel & Dhaba",
+    "lat": 28.712823,
+    "lon": 77.458273,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_23",
+    "name": "Hotel & Dhaba Location 23",
+    "category": "Hotel & Dhaba",
+    "lat": 28.700372,
+    "lon": 77.42226,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_24",
+    "name": "Hotel & Dhaba Location 24",
+    "category": "Hotel & Dhaba",
+    "lat": 28.70063,
+    "lon": 77.422379,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_25",
+    "name": "Hotel & Dhaba Location 25",
+    "category": "Hotel & Dhaba",
+    "lat": 28.702413,
+    "lon": 77.424959,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_26",
+    "name": "Hotel & Dhaba Location 26",
+    "category": "Hotel & Dhaba",
+    "lat": 28.699501,
+    "lon": 77.423747,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_27",
+    "name": "Hotel & Dhaba Location 27",
+    "category": "Hotel & Dhaba",
+    "lat": 28.698756,
+    "lon": 77.425089,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_28",
+    "name": "Hotel & Dhaba Location 28",
+    "category": "Hotel & Dhaba",
+    "lat": 28.698725,
+    "lon": 77.425199,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_29",
+    "name": "Hotel & Dhaba Location 29",
+    "category": "Hotel & Dhaba",
+    "lat": 28.696959,
+    "lon": 77.42924,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_30",
+    "name": "Hotel & Dhaba Location 30",
+    "category": "Hotel & Dhaba",
+    "lat": 28.701958,
+    "lon": 77.418459,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_31",
+    "name": "Hotel & Dhaba Location 31",
+    "category": "Hotel & Dhaba",
+    "lat": 28.700986,
+    "lon": 77.419924,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_32",
+    "name": "Hotel & Dhaba Location 32",
+    "category": "Hotel & Dhaba",
+    "lat": 28.67545,
+    "lon": 77.417564,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_33",
+    "name": "Hotel & Dhaba Location 33",
+    "category": "Hotel & Dhaba",
+    "lat": 28.67859,
+    "lon": 77.422186,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_34",
+    "name": "Hotel & Dhaba Location 34",
+    "category": "Hotel & Dhaba",
+    "lat": 28.680947,
+    "lon": 77.424627,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_35",
+    "name": "Hotel & Dhaba Location 35",
+    "category": "Hotel & Dhaba",
+    "lat": 28.684809,
+    "lon": 77.429326,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_36",
+    "name": "Hotel & Dhaba Location 36",
+    "category": "Hotel & Dhaba",
+    "lat": 28.683101,
+    "lon": 77.427678,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_37",
+    "name": "Hotel & Dhaba Location 37",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689317,
+    "lon": 77.434736,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_38",
+    "name": "Hotel & Dhaba Location 38",
+    "category": "Hotel & Dhaba",
+    "lat": 28.683358,
+    "lon": 77.42808,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_39",
+    "name": "Hotel & Dhaba Location 39",
+    "category": "Hotel & Dhaba",
+    "lat": 28.693346,
+    "lon": 77.43796,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_40",
+    "name": "Hotel & Dhaba Location 40",
+    "category": "Hotel & Dhaba",
+    "lat": 28.683616,
+    "lon": 77.514867,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_41",
+    "name": "Hotel & Dhaba Location 41",
+    "category": "Hotel & Dhaba",
+    "lat": 28.656154,
+    "lon": 77.474864,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_42",
+    "name": "Hotel & Dhaba Location 42",
+    "category": "Hotel & Dhaba",
+    "lat": 28.638774,
+    "lon": 77.462994,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_43",
+    "name": "Hotel & Dhaba Location 43",
+    "category": "Hotel & Dhaba",
+    "lat": 28.632332,
+    "lon": 77.466601,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_44",
+    "name": "Hotel & Dhaba Location 44",
+    "category": "Hotel & Dhaba",
+    "lat": 28.635959,
+    "lon": 77.461897,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_45",
+    "name": "Hotel & Dhaba Location 45",
+    "category": "Hotel & Dhaba",
+    "lat": 28.633554,
+    "lon": 77.465139,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_46",
+    "name": "Hotel & Dhaba Location 46",
+    "category": "Hotel & Dhaba",
+    "lat": 28.633835,
+    "lon": 77.465411,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_47",
+    "name": "Hotel & Dhaba Location 47",
+    "category": "Hotel & Dhaba",
+    "lat": 28.635506,
+    "lon": 77.44264,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_48",
+    "name": "Hotel & Dhaba Location 48",
+    "category": "Hotel & Dhaba",
+    "lat": 28.626782,
+    "lon": 77.439448,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_49",
+    "name": "Hotel & Dhaba Location 49",
+    "category": "Hotel & Dhaba",
+    "lat": 28.632932,
+    "lon": 77.443299,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_50",
+    "name": "Hotel & Dhaba Location 50",
+    "category": "Hotel & Dhaba",
+    "lat": 28.632942,
+    "lon": 77.443303,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_51",
+    "name": "Hotel & Dhaba Location 51",
+    "category": "Hotel & Dhaba",
+    "lat": 28.62839,
+    "lon": 77.440355,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_52",
+    "name": "Hotel & Dhaba Location 52",
+    "category": "Hotel & Dhaba",
+    "lat": 28.633153,
+    "lon": 77.443407,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_53",
+    "name": "Hotel & Dhaba Location 53",
+    "category": "Hotel & Dhaba",
+    "lat": 28.628398,
+    "lon": 77.440353,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_54",
+    "name": "Hotel & Dhaba Location 54",
+    "category": "Hotel & Dhaba",
+    "lat": 28.62876,
+    "lon": 77.440398,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_55",
+    "name": "Hotel & Dhaba Location 55",
+    "category": "Hotel & Dhaba",
+    "lat": 28.640578,
+    "lon": 77.411086,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_56",
+    "name": "Hotel & Dhaba Location 56",
+    "category": "Hotel & Dhaba",
+    "lat": 28.645578,
+    "lon": 77.414086,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_57",
+    "name": "Hotel & Dhaba Location 57",
+    "category": "Hotel & Dhaba",
+    "lat": 28.640578,
+    "lon": 77.411086,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_58",
+    "name": "Hotel & Dhaba Location 58",
+    "category": "Hotel & Dhaba",
+    "lat": 28.642578,
+    "lon": 77.412086,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_59",
+    "name": "Hotel & Dhaba Location 59",
+    "category": "Hotel & Dhaba",
+    "lat": 28.641477,
+    "lon": 77.418311,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_60",
+    "name": "Hotel & Dhaba Location 60",
+    "category": "Hotel & Dhaba",
+    "lat": 28.640981,
+    "lon": 77.415461,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_61",
+    "name": "Hotel & Dhaba Location 61",
+    "category": "Hotel & Dhaba",
+    "lat": 28.639463,
+    "lon": 77.407128,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_62",
+    "name": "Hotel & Dhaba Location 62",
+    "category": "Hotel & Dhaba",
+    "lat": 28.637889,
+    "lon": 77.402692,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_63",
+    "name": "Hotel & Dhaba Location 63",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6738,
+    "lon": 77.3828,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_64",
+    "name": "Hotel & Dhaba Location 64",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6738,
+    "lon": 77.3828,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_65",
+    "name": "Hotel & Dhaba Location 65",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6728,
+    "lon": 77.3728,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_66",
+    "name": "Hotel & Dhaba Location 66",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6738,
+    "lon": 77.3828,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_67",
+    "name": "Hotel & Dhaba Location 67",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6738,
+    "lon": 77.3828,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_68",
+    "name": "Hotel & Dhaba Location 68",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_69",
+    "name": "Hotel & Dhaba Location 69",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_70",
+    "name": "Hotel & Dhaba Location 70",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_71",
+    "name": "Hotel & Dhaba Location 71",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_72",
+    "name": "Hotel & Dhaba Location 72",
+    "category": "Hotel & Dhaba",
+    "lat": 28.5623,
+    "lon": 77.3523,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_73",
+    "name": "Hotel & Dhaba Location 73",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_74",
+    "name": "Hotel & Dhaba Location 74",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_75",
+    "name": "Hotel & Dhaba Location 75",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6906,
+    "lon": 77.3784,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_76",
+    "name": "Hotel & Dhaba Location 76",
+    "category": "Hotel & Dhaba",
+    "lat": 28.670185,
+    "lon": 77.44455,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_77",
+    "name": "Hotel & Dhaba Location 77",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6883,
+    "lon": 77.3753,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_78",
+    "name": "Hotel & Dhaba Location 78",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6789,
+    "lon": 77.3902,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_79",
+    "name": "Hotel & Dhaba Location 79",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6789,
+    "lon": 77.3902,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_80",
+    "name": "Hotel & Dhaba Location 80",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6755,
+    "lon": 77.3852,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_81",
+    "name": "Hotel & Dhaba Location 81",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6769,
+    "lon": 77.3806,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_82",
+    "name": "Hotel & Dhaba Location 82",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6774,
+    "lon": 77.3499,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_83",
+    "name": "Hotel & Dhaba Location 83",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6774,
+    "lon": 77.3499,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_84",
+    "name": "Hotel & Dhaba Location 84",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6774,
+    "lon": 77.3499,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_85",
+    "name": "Hotel & Dhaba Location 85",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6774,
+    "lon": 77.3499,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_86",
+    "name": "Hotel & Dhaba Location 86",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6772,
+    "lon": 77.3439,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_87",
+    "name": "Hotel & Dhaba Location 87",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6752,
+    "lon": 77.3442,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_88",
+    "name": "Hotel & Dhaba Location 88",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6751,
+    "lon": 77.3432,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_89",
+    "name": "Hotel & Dhaba Location 89",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6755,
+    "lon": 77.3852,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_90",
+    "name": "Hotel & Dhaba Location 90",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6735,
+    "lon": 77.3862,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_91",
+    "name": "Hotel & Dhaba Location 91",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6774,
+    "lon": 77.3888,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_92",
+    "name": "Hotel & Dhaba Location 92",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6772,
+    "lon": 77.3885,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_93",
+    "name": "Hotel & Dhaba Location 93",
+    "category": "Hotel & Dhaba",
+    "lat": 28.677,
+    "lon": 77.3872,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_94",
+    "name": "Hotel & Dhaba Location 94",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6794,
+    "lon": 77.3849,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_95",
+    "name": "Hotel & Dhaba Location 95",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_96",
+    "name": "Hotel & Dhaba Location 96",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_97",
+    "name": "Hotel & Dhaba Location 97",
+    "category": "Hotel & Dhaba",
+    "lat": 28.0,
+    "lon": 77.0,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_98",
+    "name": "Hotel & Dhaba Location 98",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6771,
+    "lon": 77.3408,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_99",
+    "name": "Hotel & Dhaba Location 99",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6771,
+    "lon": 77.3408,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_100",
+    "name": "Hotel & Dhaba Location 100",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6799,
+    "lon": 77.3292,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_101",
+    "name": "Hotel & Dhaba Location 101",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6807,
+    "lon": 77.3306,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_102",
+    "name": "Hotel & Dhaba Location 102",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6792,
+    "lon": 77.3286,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_103",
+    "name": "Hotel & Dhaba Location 103",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6778,
+    "lon": 77.3883,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_104",
+    "name": "Hotel & Dhaba Location 104",
+    "category": "Hotel & Dhaba",
+    "lat": 28.6732,
+    "lon": 77.3814,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_105",
+    "name": "Hotel & Dhaba Location 105",
+    "category": "Hotel & Dhaba",
+    "lat": 28.7269,
+    "lon": 77.3335,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_106",
+    "name": "Hotel & Dhaba Location 106",
+    "category": "Hotel & Dhaba",
+    "lat": 28.695384,
+    "lon": 77.336381,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_107",
+    "name": "Hotel & Dhaba Location 107",
+    "category": "Hotel & Dhaba",
+    "lat": 28.729008,
+    "lon": 77.368411,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_108",
+    "name": "Hotel & Dhaba Location 108",
+    "category": "Hotel & Dhaba",
+    "lat": 28.725629,
+    "lon": 77.335514,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_109",
+    "name": "Hotel & Dhaba Location 109",
+    "category": "Hotel & Dhaba",
+    "lat": 28.725648,
+    "lon": 77.335321,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_110",
+    "name": "Hotel & Dhaba Location 110",
+    "category": "Hotel & Dhaba",
+    "lat": 28.772164,
+    "lon": 77.332225,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_111",
+    "name": "Hotel & Dhaba Location 111",
+    "category": "Hotel & Dhaba",
+    "lat": 28.701008,
+    "lon": 77.832435,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_112",
+    "name": "Hotel & Dhaba Location 112",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689454,
+    "lon": 77.355422,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_113",
+    "name": "Hotel & Dhaba Location 113",
+    "category": "Hotel & Dhaba",
+    "lat": 28.692087,
+    "lon": 77.348768,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_114",
+    "name": "Hotel & Dhaba Location 114",
+    "category": "Hotel & Dhaba",
+    "lat": 28.692426,
+    "lon": 77.347992,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_115",
+    "name": "Hotel & Dhaba Location 115",
+    "category": "Hotel & Dhaba",
+    "lat": 28.692426,
+    "lon": 77.347992,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_116",
+    "name": "Hotel & Dhaba Location 116",
+    "category": "Hotel & Dhaba",
+    "lat": 28.692636,
+    "lon": 77.348843,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_117",
+    "name": "Hotel & Dhaba Location 117",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689487,
+    "lon": 77.355539,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_118",
+    "name": "Hotel & Dhaba Location 118",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689167,
+    "lon": 77.35572,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_119",
+    "name": "Hotel & Dhaba Location 119",
+    "category": "Hotel & Dhaba",
+    "lat": 28.693263,
+    "lon": 77.348831,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_120",
+    "name": "Hotel & Dhaba Location 120",
+    "category": "Hotel & Dhaba",
+    "lat": 28.692634,
+    "lon": 77.348831,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_121",
+    "name": "Hotel & Dhaba Location 121",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689253,
+    "lon": 77.357507,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_122",
+    "name": "Hotel & Dhaba Location 122",
+    "category": "Hotel & Dhaba",
+    "lat": 28.692517,
+    "lon": 77.348308,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_123",
+    "name": "Hotel & Dhaba Location 123",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689491,
+    "lon": 77.355818,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_124",
+    "name": "Hotel & Dhaba Location 124",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689364,
+    "lon": 77.35616,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_125",
+    "name": "Hotel & Dhaba Location 125",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689491,
+    "lon": 77.355171,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_126",
+    "name": "Hotel & Dhaba Location 126",
+    "category": "Hotel & Dhaba",
+    "lat": 28.80369,
+    "lon": 77.54257,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_127",
+    "name": "Hotel & Dhaba Location 127",
+    "category": "Hotel & Dhaba",
+    "lat": 28.80316,
+    "lon": 77.54176,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_128",
+    "name": "Hotel & Dhaba Location 128",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82394,
+    "lon": 77.56357,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_129",
+    "name": "Hotel & Dhaba Location 129",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82482,
+    "lon": 77.56441,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_130",
+    "name": "Hotel & Dhaba Location 130",
+    "category": "Hotel & Dhaba",
+    "lat": 28.81641,
+    "lon": 77.55484,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_131",
+    "name": "Hotel & Dhaba Location 131",
+    "category": "Hotel & Dhaba",
+    "lat": 28.8176,
+    "lon": 77.556,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_132",
+    "name": "Hotel & Dhaba Location 132",
+    "category": "Hotel & Dhaba",
+    "lat": 28.81977,
+    "lon": 77.55981,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_133",
+    "name": "Hotel & Dhaba Location 133",
+    "category": "Hotel & Dhaba",
+    "lat": 28.8281,
+    "lon": 77.56799,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_134",
+    "name": "Hotel & Dhaba Location 134",
+    "category": "Hotel & Dhaba",
+    "lat": 28.8268,
+    "lon": 77.56663,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_135",
+    "name": "Hotel & Dhaba Location 135",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83559,
+    "lon": 77.57607,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_136",
+    "name": "Hotel & Dhaba Location 136",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82881,
+    "lon": 77.56889,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_137",
+    "name": "Hotel & Dhaba Location 137",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83006,
+    "lon": 77.57057,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_138",
+    "name": "Hotel & Dhaba Location 138",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83045,
+    "lon": 77.571,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_139",
+    "name": "Hotel & Dhaba Location 139",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83126,
+    "lon": 77.57271,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_140",
+    "name": "Hotel & Dhaba Location 140",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83036,
+    "lon": 77.57095,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_141",
+    "name": "Hotel & Dhaba Location 141",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82994,
+    "lon": 77.57098,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_142",
+    "name": "Hotel & Dhaba Location 142",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82804,
+    "lon": 77.56805,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_143",
+    "name": "Hotel & Dhaba Location 143",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83245,
+    "lon": 77.5644,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_144",
+    "name": "Hotel & Dhaba Location 144",
+    "category": "Hotel & Dhaba",
+    "lat": 28.8356,
+    "lon": 77.87612,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_145",
+    "name": "Hotel & Dhaba Location 145",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82967,
+    "lon": 77.57069,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_146",
+    "name": "Hotel & Dhaba Location 146",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82461,
+    "lon": 77.5643,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_147",
+    "name": "Hotel & Dhaba Location 147",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83127,
+    "lon": 77.265,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_148",
+    "name": "Hotel & Dhaba Location 148",
+    "category": "Hotel & Dhaba",
+    "lat": 28.8333,
+    "lon": 77.5743,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_149",
+    "name": "Hotel & Dhaba Location 149",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83925,
+    "lon": 77.57994,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_150",
+    "name": "Hotel & Dhaba Location 150",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82246,
+    "lon": 77.57328,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_151",
+    "name": "Hotel & Dhaba Location 151",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83925,
+    "lon": 77.57328,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_152",
+    "name": "Hotel & Dhaba Location 152",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82988,
+    "lon": 77.57088,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_153",
+    "name": "Hotel & Dhaba Location 153",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83019,
+    "lon": 77.57076,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_154",
+    "name": "Hotel & Dhaba Location 154",
+    "category": "Hotel & Dhaba",
+    "lat": 28.81643,
+    "lon": 77.5548,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_155",
+    "name": "Hotel & Dhaba Location 155",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85709,
+    "lon": 77.59134,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_156",
+    "name": "Hotel & Dhaba Location 156",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85709,
+    "lon": 77.59134,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_157",
+    "name": "Hotel & Dhaba Location 157",
+    "category": "Hotel & Dhaba",
+    "lat": 28.87272,
+    "lon": 77.6042,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_158",
+    "name": "Hotel & Dhaba Location 158",
+    "category": "Hotel & Dhaba",
+    "lat": 28.87695,
+    "lon": 77.60775,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_159",
+    "name": "Hotel & Dhaba Location 159",
+    "category": "Hotel & Dhaba",
+    "lat": 28.86813,
+    "lon": 77.60155,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_160",
+    "name": "Hotel & Dhaba Location 160",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85272,
+    "lon": 77.58933,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_161",
+    "name": "Hotel & Dhaba Location 161",
+    "category": "Hotel & Dhaba",
+    "lat": 28.83052,
+    "lon": 77.575716,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_162",
+    "name": "Hotel & Dhaba Location 162",
+    "category": "Hotel & Dhaba",
+    "lat": 28.82402,
+    "lon": 77.56335,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_163",
+    "name": "Hotel & Dhaba Location 163",
+    "category": "Hotel & Dhaba",
+    "lat": 28.84545,
+    "lon": 77.58461,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_164",
+    "name": "Hotel & Dhaba Location 164",
+    "category": "Hotel & Dhaba",
+    "lat": 28.84533,
+    "lon": 77.446,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_165",
+    "name": "Hotel & Dhaba Location 165",
+    "category": "Hotel & Dhaba",
+    "lat": 28.84545,
+    "lon": 77.58461,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_166",
+    "name": "Hotel & Dhaba Location 166",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85859,
+    "lon": 77.59281,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_167",
+    "name": "Hotel & Dhaba Location 167",
+    "category": "Hotel & Dhaba",
+    "lat": 28.84309,
+    "lon": 77.58311,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_168",
+    "name": "Hotel & Dhaba Location 168",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85288,
+    "lon": 77.58981,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_169",
+    "name": "Hotel & Dhaba Location 169",
+    "category": "Hotel & Dhaba",
+    "lat": 28.84992,
+    "lon": 77.58727,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_170",
+    "name": "Hotel & Dhaba Location 170",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85244,
+    "lon": 77.58906,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_171",
+    "name": "Hotel & Dhaba Location 171",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85449,
+    "lon": 77.59033,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_172",
+    "name": "Hotel & Dhaba Location 172",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85873,
+    "lon": 77.5924,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_173",
+    "name": "Hotel & Dhaba Location 173",
+    "category": "Hotel & Dhaba",
+    "lat": 28.889806,
+    "lon": 77.528892,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_174",
+    "name": "Hotel & Dhaba Location 174",
+    "category": "Hotel & Dhaba",
+    "lat": 28.878834,
+    "lon": 77.526666,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_175",
+    "name": "Hotel & Dhaba Location 175",
+    "category": "Hotel & Dhaba",
+    "lat": 28.876916,
+    "lon": 77.525994,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_176",
+    "name": "Hotel & Dhaba Location 176",
+    "category": "Hotel & Dhaba",
+    "lat": 28.85883,
+    "lon": 77.521956,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_177",
+    "name": "Hotel & Dhaba Location 177",
+    "category": "Hotel & Dhaba",
+    "lat": 28.837145,
+    "lon": 77.5167,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_178",
+    "name": "Hotel & Dhaba Location 178",
+    "category": "Hotel & Dhaba",
+    "lat": 28.804492,
+    "lon": 77.516519,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_179",
+    "name": "Hotel & Dhaba Location 179",
+    "category": "Hotel & Dhaba",
+    "lat": 28.789897,
+    "lon": 77.52963,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_180",
+    "name": "Hotel & Dhaba Location 180",
+    "category": "Hotel & Dhaba",
+    "lat": 28.795867,
+    "lon": 77.517025,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_181",
+    "name": "Hotel & Dhaba Location 181",
+    "category": "Hotel & Dhaba",
+    "lat": 28.799467,
+    "lon": 77.538847,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_182",
+    "name": "Hotel & Dhaba Location 182",
+    "category": "Hotel & Dhaba",
+    "lat": 28.90443,
+    "lon": 77.436874,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_183",
+    "name": "Hotel & Dhaba Location 183",
+    "category": "Hotel & Dhaba",
+    "lat": 28.799474,
+    "lon": 77.620732,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_184",
+    "name": "Hotel & Dhaba Location 184",
+    "category": "Hotel & Dhaba",
+    "lat": 28.785447,
+    "lon": 77.646395,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_185",
+    "name": "Hotel & Dhaba Location 185",
+    "category": "Hotel & Dhaba",
+    "lat": 28.785447,
+    "lon": 77.646395,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_186",
+    "name": "Hotel & Dhaba Location 186",
+    "category": "Hotel & Dhaba",
+    "lat": 28.799414,
+    "lon": 77.620012,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_187",
+    "name": "Hotel & Dhaba Location 187",
+    "category": "Hotel & Dhaba",
+    "lat": 28.78547,
+    "lon": 77.64395,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_188",
+    "name": "Hotel & Dhaba Location 188",
+    "category": "Hotel & Dhaba",
+    "lat": 28.689836,
+    "lon": 77.558651,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_189",
+    "name": "Hotel & Dhaba Location 189",
+    "category": "Hotel & Dhaba",
+    "lat": 28.688758,
+    "lon": 77.553524,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_190",
+    "name": "Hotel & Dhaba Location 190",
+    "category": "Hotel & Dhaba",
+    "lat": 28.688239,
+    "lon": 77.545122,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_191",
+    "name": "Hotel & Dhaba Location 191",
+    "category": "Hotel & Dhaba",
+    "lat": 28.688644,
+    "lon": 77.544956,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_192",
+    "name": "Hotel & Dhaba Location 192",
+    "category": "Hotel & Dhaba",
+    "lat": 28.769642,
+    "lon": 77.509674,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_193",
+    "name": "Hotel & Dhaba Location 193",
+    "category": "Hotel & Dhaba",
+    "lat": 28.77142,
+    "lon": 77.511179,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_194",
+    "name": "Hotel & Dhaba Location 194",
+    "category": "Hotel & Dhaba",
+    "lat": 28.770261,
+    "lon": 77.509802,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_195",
+    "name": "Hotel & Dhaba Location 195",
+    "category": "Hotel & Dhaba",
+    "lat": 28.791242,
+    "lon": 77.417692,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_196",
+    "name": "Hotel & Dhaba Location 196",
+    "category": "Hotel & Dhaba",
+    "lat": 28.781107,
+    "lon": 77.494254,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_197",
+    "name": "Hotel & Dhaba Location 197",
+    "category": "Hotel & Dhaba",
+    "lat": 28.786151,
+    "lon": 77.496283,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_198",
+    "name": "Hotel & Dhaba Location 198",
+    "category": "Hotel & Dhaba",
+    "lat": 28.838124,
+    "lon": 77.43937,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_199",
+    "name": "Hotel & Dhaba Location 199",
+    "category": "Hotel & Dhaba",
+    "lat": 28.836529,
+    "lon": 77.441094,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_200",
+    "name": "Hotel & Dhaba Location 200",
+    "category": "Hotel & Dhaba",
+    "lat": 28.834875,
+    "lon": 77.44283,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_201",
+    "name": "Hotel & Dhaba Location 201",
+    "category": "Hotel & Dhaba",
+    "lat": 28.835704,
+    "lon": 77.441945,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_202",
+    "name": "Hotel & Dhaba Location 202",
+    "category": "Hotel & Dhaba",
+    "lat": 28.840032,
+    "lon": 77.437544,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_203",
+    "name": "Hotel & Dhaba Location 203",
+    "category": "Hotel & Dhaba",
+    "lat": 28.834969,
+    "lon": 77.43719,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_204",
+    "name": "Hotel & Dhaba Location 204",
+    "category": "Hotel & Dhaba",
+    "lat": 28.753705,
+    "lon": 77.495944,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_205",
+    "name": "Hotel & Dhaba Location 205",
+    "category": "Hotel & Dhaba",
+    "lat": 28.745929,
+    "lon": 77.486959,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_206",
+    "name": "Hotel & Dhaba Location 206",
+    "category": "Hotel & Dhaba",
+    "lat": 28.742855,
+    "lon": 77.483589,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_207",
+    "name": "Hotel & Dhaba Location 207",
+    "category": "Hotel & Dhaba",
+    "lat": 28.755401,
+    "lon": 77.49683,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_208",
+    "name": "Hotel & Dhaba Location 208",
+    "category": "Hotel & Dhaba",
+    "lat": 28.744769,
+    "lon": 77.48507,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_209",
+    "name": "Hotel & Dhaba Location 209",
+    "category": "Hotel & Dhaba",
+    "lat": 28.769448,
+    "lon": 77.510017,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_210",
+    "name": "Hotel & Dhaba Location 210",
+    "category": "Hotel & Dhaba",
+    "lat": 28.769461,
+    "lon": 77.510012,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_211",
+    "name": "Hotel & Dhaba Location 211",
+    "category": "Hotel & Dhaba",
+    "lat": 28.768307,
+    "lon": 77.518968,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_212",
+    "name": "Hotel & Dhaba Location 212",
+    "category": "Hotel & Dhaba",
+    "lat": 28.767351,
+    "lon": 77.508116,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_213",
+    "name": "Hotel & Dhaba Location 213",
+    "category": "Hotel & Dhaba",
+    "lat": 28.762829,
+    "lon": 77.503941,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_214",
+    "name": "Hotel & Dhaba Location 214",
+    "category": "Hotel & Dhaba",
+    "lat": 28.762829,
+    "lon": 77.503941,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_215",
+    "name": "Hotel & Dhaba Location 215",
+    "category": "Hotel & Dhaba",
+    "lat": 28.762829,
+    "lon": 77.503941,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_216",
+    "name": "Hotel & Dhaba Location 216",
+    "category": "Hotel & Dhaba",
+    "lat": 28.762436,
+    "lon": 77.503652,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_217",
+    "name": "Hotel & Dhaba Location 217",
+    "category": "Hotel & Dhaba",
+    "lat": 28.762092,
+    "lon": 77.503257,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_218",
+    "name": "Hotel & Dhaba Location 218",
+    "category": "Hotel & Dhaba",
+    "lat": 28.787405,
+    "lon": 77.527592,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_219",
+    "name": "Hotel & Dhaba Location 219",
+    "category": "Hotel & Dhaba",
+    "lat": 28.786217,
+    "lon": 77.526367,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_220",
+    "name": "Hotel & Dhaba Location 220",
+    "category": "Hotel & Dhaba",
+    "lat": 28.784857,
+    "lon": 77.524985,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_221",
+    "name": "Hotel & Dhaba Location 221",
+    "category": "Hotel & Dhaba",
+    "lat": 28.782092,
+    "lon": 77.522293,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_222",
+    "name": "Hotel & Dhaba Location 222",
+    "category": "Hotel & Dhaba",
+    "lat": 28.781912,
+    "lon": 77.522102,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_223",
+    "name": "Hotel & Dhaba Location 223",
+    "category": "Hotel & Dhaba",
+    "lat": 28.781643,
+    "lon": 77.521848,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_224",
+    "name": "Hotel & Dhaba Location 224",
+    "category": "Hotel & Dhaba",
+    "lat": 28.781202,
+    "lon": 77.521373,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_225",
+    "name": "Hotel & Dhaba Location 225",
+    "category": "Hotel & Dhaba",
+    "lat": 28.74931,
+    "lon": 77.28671,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_226",
+    "name": "Hotel & Dhaba Location 226",
+    "category": "Hotel & Dhaba",
+    "lat": 28.73921,
+    "lon": 77.27652,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_227",
+    "name": "Hotel & Dhaba Location 227",
+    "category": "Hotel & Dhaba",
+    "lat": 28.73921,
+    "lon": 77.2543,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_228",
+    "name": "Hotel & Dhaba Location 228",
+    "category": "Hotel & Dhaba",
+    "lat": 28.737112,
+    "lon": 77.242141,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_229",
+    "name": "Hotel & Dhaba Location 229",
+    "category": "Hotel & Dhaba",
+    "lat": 28.75212,
+    "lon": 77.231234,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_230",
+    "name": "Hotel & Dhaba Location 230",
+    "category": "Hotel & Dhaba",
+    "lat": 28.74793,
+    "lon": 77.28982,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_231",
+    "name": "Hotel & Dhaba Location 231",
+    "category": "Hotel & Dhaba",
+    "lat": 28.74231,
+    "lon": 77.99921,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_232",
+    "name": "Hotel & Dhaba Location 232",
+    "category": "Hotel & Dhaba",
+    "lat": 28.759217,
+    "lon": 77.322282,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_233",
+    "name": "Hotel & Dhaba Location 233",
+    "category": "Hotel & Dhaba",
+    "lat": 28.759217,
+    "lon": 77.322282,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_234",
+    "name": "Hotel & Dhaba Location 234",
+    "category": "Hotel & Dhaba",
+    "lat": 28.77845,
+    "lon": 77.33517,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_235",
+    "name": "Hotel & Dhaba Location 235",
+    "category": "Hotel & Dhaba",
+    "lat": 28.802583,
+    "lon": 77.274793,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_236",
+    "name": "Hotel & Dhaba Location 236",
+    "category": "Hotel & Dhaba",
+    "lat": 28.813861,
+    "lon": 77.273935,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_237",
+    "name": "Hotel & Dhaba Location 237",
+    "category": "Hotel & Dhaba",
+    "lat": 28.793237,
+    "lon": 77.27639,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_238",
+    "name": "Hotel & Dhaba Location 238",
+    "category": "Hotel & Dhaba",
+    "lat": 28.785849,
+    "lon": 77.277882,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_239",
+    "name": "Hotel & Dhaba Location 239",
+    "category": "Hotel & Dhaba",
+    "lat": 28.770049,
+    "lon": 77.281495,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_240",
+    "name": "Hotel & Dhaba Location 240",
+    "category": "Hotel & Dhaba",
+    "lat": 28.773832,
+    "lon": 77.279944,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_241",
+    "name": "Hotel & Dhaba Location 241",
+    "category": "Hotel & Dhaba",
+    "lat": 28.76893,
+    "lon": 77.281336,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_242",
+    "name": "Hotel & Dhaba Location 242",
+    "category": "Hotel & Dhaba",
+    "lat": 28.768628,
+    "lon": 77.281257,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_243",
+    "name": "Hotel & Dhaba Location 243",
+    "category": "Hotel & Dhaba",
+    "lat": 28.779022,
+    "lon": 77.279108,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_244",
+    "name": "Hotel & Dhaba Location 244",
+    "category": "Hotel & Dhaba",
+    "lat": 28.778722,
+    "lon": 77.279262,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_245",
+    "name": "Hotel & Dhaba Location 245",
+    "category": "Hotel & Dhaba",
+    "lat": 28.776713,
+    "lon": 77.279779,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_246",
+    "name": "Hotel & Dhaba Location 246",
+    "category": "Hotel & Dhaba",
+    "lat": 28.774714,
+    "lon": 77.279828,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_247",
+    "name": "Hotel & Dhaba Location 247",
+    "category": "Hotel & Dhaba",
+    "lat": 28.774714,
+    "lon": 77.279828,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_248",
+    "name": "Hotel & Dhaba Location 248",
+    "category": "Hotel & Dhaba",
+    "lat": 28.774866,
+    "lon": 77.279765,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_249",
+    "name": "Hotel & Dhaba Location 249",
+    "category": "Hotel & Dhaba",
+    "lat": 28.77501,
+    "lon": 77.279756,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_250",
+    "name": "Hotel & Dhaba Location 250",
+    "category": "Hotel & Dhaba",
+    "lat": 28.758442,
+    "lon": 77.271316,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_251",
+    "name": "Hotel & Dhaba Location 251",
+    "category": "Hotel & Dhaba",
+    "lat": 28.766091,
+    "lon": 77.277237,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_252",
+    "name": "Hotel & Dhaba Location 252",
+    "category": "Hotel & Dhaba",
+    "lat": 28.743606,
+    "lon": 77.287771,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_253",
+    "name": "Hotel & Dhaba Location 253",
+    "category": "Hotel & Dhaba",
+    "lat": 28.744553,
+    "lon": 77.287329,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_254",
+    "name": "Hotel & Dhaba Location 254",
+    "category": "Hotel & Dhaba",
+    "lat": 28.718947,
+    "lon": 77.314456,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_255",
+    "name": "Hotel & Dhaba Location 255",
+    "category": "Hotel & Dhaba",
+    "lat": 28.717392,
+    "lon": 77.310248,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_256",
+    "name": "Hotel & Dhaba Location 256",
+    "category": "Hotel & Dhaba",
+    "lat": 28.715194,
+    "lon": 77.304518,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_257",
+    "name": "Hotel & Dhaba Location 257",
+    "category": "Hotel & Dhaba",
+    "lat": 28.715194,
+    "lon": 77.304518,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_258",
+    "name": "Hotel & Dhaba Location 258",
+    "category": "Hotel & Dhaba",
+    "lat": 28.715236,
+    "lon": 77.30451,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_259",
+    "name": "Hotel & Dhaba Location 259",
+    "category": "Hotel & Dhaba",
+    "lat": 28.715623,
+    "lon": 77.305796,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_260",
+    "name": "Hotel & Dhaba Location 260",
+    "category": "Hotel & Dhaba",
+    "lat": 28.714321,
+    "lon": 77.30189,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_261",
+    "name": "Hotel & Dhaba Location 261",
+    "category": "Hotel & Dhaba",
+    "lat": 28.710182,
+    "lon": 77.2013,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_262",
+    "name": "Hotel & Dhaba Location 262",
+    "category": "Hotel & Dhaba",
+    "lat": 28.710182,
+    "lon": 77.2013,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_263",
+    "name": "Hotel & Dhaba Location 263",
+    "category": "Hotel & Dhaba",
+    "lat": 28.717919,
+    "lon": 77.311477,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_264",
+    "name": "Hotel & Dhaba Location 264",
+    "category": "Hotel & Dhaba",
+    "lat": 28.718154,
+    "lon": 77.312176,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_265",
+    "name": "Hotel & Dhaba Location 265",
+    "category": "Hotel & Dhaba",
+    "lat": 28.717443,
+    "lon": 77.310425,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_266",
+    "name": "Hotel & Dhaba Location 266",
+    "category": "Hotel & Dhaba",
+    "lat": 28.717485,
+    "lon": 77.310427,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_267",
+    "name": "Hotel & Dhaba Location 267",
+    "category": "Hotel & Dhaba",
+    "lat": 28.716705,
+    "lon": 77.308089,
+    "emoji": "🏨"
+  },
+  {
+    "id": "hd_268",
+    "name": "Hotel & Dhaba Location 268",
+    "category": "Hotel & Dhaba",
+    "lat": 28.714259,
+    "lon": 77.301475,
+    "emoji": "🏨"
+  },
+  {
+    "id": "man_1",
+    "name": "Mandir Location 1",
+    "category": "Mandir",
+    "lat": 28.672809,
+    "lon": 77.413845,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_2",
+    "name": "Mandir Location 2",
+    "category": "Mandir",
+    "lat": 28.455224,
+    "lon": 77.454525,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_3",
+    "name": "Mandir Location 3",
+    "category": "Mandir",
+    "lat": 28.565421,
+    "lon": 77.526521,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_4",
+    "name": "Mandir Location 4",
+    "category": "Mandir",
+    "lat": 28.381961,
+    "lon": 77.272702,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_5",
+    "name": "Mandir Location 5",
+    "category": "Mandir",
+    "lat": 28.67254,
+    "lon": 77.406542,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_6",
+    "name": "Mandir Location 6",
+    "category": "Mandir",
+    "lat": 28.662932,
+    "lon": 77.423781,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_7",
+    "name": "Mandir Location 7",
+    "category": "Mandir",
+    "lat": 28.662945,
+    "lon": 77.423748,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_8",
+    "name": "Mandir Location 8",
+    "category": "Mandir",
+    "lat": 28.649948,
+    "lon": 77.420624,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_9",
+    "name": "Mandir Location 9",
+    "category": "Mandir",
+    "lat": 28.6499,
+    "lon": 77.4207,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_10",
+    "name": "Mandir Location 10",
+    "category": "Mandir",
+    "lat": 28.658854,
+    "lon": 77.42031,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_11",
+    "name": "Mandir Location 11",
+    "category": "Mandir",
+    "lat": 28.642,
+    "lon": 77.4217,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_12",
+    "name": "Mandir Location 12",
+    "category": "Mandir",
+    "lat": 28.645486,
+    "lon": 77.421682,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_13",
+    "name": "Mandir Location 13",
+    "category": "Mandir",
+    "lat": 28.6553,
+    "lon": 77.45248,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_14",
+    "name": "Mandir Location 14",
+    "category": "Mandir",
+    "lat": 28.65338,
+    "lon": 77.45352,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_15",
+    "name": "Mandir Location 15",
+    "category": "Mandir",
+    "lat": 28.656051,
+    "lon": 77.470702,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_16",
+    "name": "Mandir Location 16",
+    "category": "Mandir",
+    "lat": 28.678266,
+    "lon": 77.478373,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_17",
+    "name": "Mandir Location 17",
+    "category": "Mandir",
+    "lat": 28.773261,
+    "lon": 77.476994,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_18",
+    "name": "Mandir Location 18",
+    "category": "Mandir",
+    "lat": 28.720857,
+    "lon": 77.465712,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_19",
+    "name": "Mandir Location 19",
+    "category": "Mandir",
+    "lat": 28.720166,
+    "lon": 77.464956,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_20",
+    "name": "Mandir Location 20",
+    "category": "Mandir",
+    "lat": 28.699847,
+    "lon": 77.480898,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_21",
+    "name": "Mandir Location 21",
+    "category": "Mandir",
+    "lat": 28.69683,
+    "lon": 77.487647,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_22",
+    "name": "Mandir Location 22",
+    "category": "Mandir",
+    "lat": 28.703794,
+    "lon": 77.450361,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_23",
+    "name": "Mandir Location 23",
+    "category": "Mandir",
+    "lat": 28.690604,
+    "lon": 77.448488,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_24",
+    "name": "Mandir Location 24",
+    "category": "Mandir",
+    "lat": 28.673125,
+    "lon": 77.410407,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_25",
+    "name": "Mandir Location 25",
+    "category": "Mandir",
+    "lat": 28.68081,
+    "lon": 77.42132,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_26",
+    "name": "Mandir Location 26",
+    "category": "Mandir",
+    "lat": 28.675703,
+    "lon": 77.41856,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_27",
+    "name": "Mandir Location 27",
+    "category": "Mandir",
+    "lat": 28.669787,
+    "lon": 77.417808,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_28",
+    "name": "Mandir Location 28",
+    "category": "Mandir",
+    "lat": 28.678292,
+    "lon": 77.425556,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_29",
+    "name": "Mandir Location 29",
+    "category": "Mandir",
+    "lat": 28.627973,
+    "lon": 77.441334,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_30",
+    "name": "Mandir Location 30",
+    "category": "Mandir",
+    "lat": 28.624789,
+    "lon": 77.433828,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_31",
+    "name": "Mandir Location 31",
+    "category": "Mandir",
+    "lat": 28.632491,
+    "lon": 77.412304,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_32",
+    "name": "Mandir Location 32",
+    "category": "Mandir",
+    "lat": 28.629319,
+    "lon": 77.41362,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_33",
+    "name": "Mandir Location 33",
+    "category": "Mandir",
+    "lat": 28.639859,
+    "lon": 77.408133,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_34",
+    "name": "Mandir Location 34",
+    "category": "Mandir",
+    "lat": 28.637841,
+    "lon": 77.401986,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_35",
+    "name": "Mandir Location 35",
+    "category": "Mandir",
+    "lat": 28.67,
+    "lon": 77.368,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_36",
+    "name": "Mandir Location 36",
+    "category": "Mandir",
+    "lat": 28.679,
+    "lon": 77.328,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_37",
+    "name": "Mandir Location 37",
+    "category": "Mandir",
+    "lat": 28.6675,
+    "lon": 77.38,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_38",
+    "name": "Mandir Location 38",
+    "category": "Mandir",
+    "lat": 28.6701,
+    "lon": 77.4445,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_39",
+    "name": "Mandir Location 39",
+    "category": "Mandir",
+    "lat": 28.685399,
+    "lon": 77.371167,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_40",
+    "name": "Mandir Location 40",
+    "category": "Mandir",
+    "lat": 28.675,
+    "lon": 77.37,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_41",
+    "name": "Mandir Location 41",
+    "category": "Mandir",
+    "lat": 28.641,
+    "lon": 77.365,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_42",
+    "name": "Mandir Location 42",
+    "category": "Mandir",
+    "lat": 28.6631,
+    "lon": 77.3879,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_43",
+    "name": "Mandir Location 43",
+    "category": "Mandir",
+    "lat": 28.6738,
+    "lon": 77.3756,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_44",
+    "name": "Mandir Location 44",
+    "category": "Mandir",
+    "lat": 28.6531,
+    "lon": 77.3789,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_45",
+    "name": "Mandir Location 45",
+    "category": "Mandir",
+    "lat": 28.662876,
+    "lon": 77.343407,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_46",
+    "name": "Mandir Location 46",
+    "category": "Mandir",
+    "lat": 28.655329,
+    "lon": 77.376151,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_47",
+    "name": "Mandir Location 47",
+    "category": "Mandir",
+    "lat": 28.641177,
+    "lon": 77.327725,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_48",
+    "name": "Mandir Location 48",
+    "category": "Mandir",
+    "lat": 28.688684,
+    "lon": 77.361587,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_49",
+    "name": "Mandir Location 49",
+    "category": "Mandir",
+    "lat": 28.690796,
+    "lon": 77.340296,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_50",
+    "name": "Mandir Location 50",
+    "category": "Mandir",
+    "lat": 28.693953,
+    "lon": 77.342154,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_51",
+    "name": "Mandir Location 51",
+    "category": "Mandir",
+    "lat": 28.69526,
+    "lon": 77.337407,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_52",
+    "name": "Mandir Location 52",
+    "category": "Mandir",
+    "lat": 28.696429,
+    "lon": 77.331416,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_53",
+    "name": "Mandir Location 53",
+    "category": "Mandir",
+    "lat": 28.732587,
+    "lon": 77.382263,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_54",
+    "name": "Mandir Location 54",
+    "category": "Mandir",
+    "lat": 28.729751,
+    "lon": 77.372074,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_55",
+    "name": "Mandir Location 55",
+    "category": "Mandir",
+    "lat": 28.699632,
+    "lon": 77.332889,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_56",
+    "name": "Mandir Location 56",
+    "category": "Mandir",
+    "lat": 28.705467,
+    "lon": 77.331698,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_57",
+    "name": "Mandir Location 57",
+    "category": "Mandir",
+    "lat": 28.726301,
+    "lon": 77.342763,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_58",
+    "name": "Mandir Location 58",
+    "category": "Mandir",
+    "lat": 28.693675,
+    "lon": 77.344357,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_59",
+    "name": "Mandir Location 59",
+    "category": "Mandir",
+    "lat": 28.828891,
+    "lon": 77.569032,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_60",
+    "name": "Mandir Location 60",
+    "category": "Mandir",
+    "lat": 28.82812,
+    "lon": 77.5688,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_61",
+    "name": "Mandir Location 61",
+    "category": "Mandir",
+    "lat": 28.82735,
+    "lon": 77.56807,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_62",
+    "name": "Mandir Location 62",
+    "category": "Mandir",
+    "lat": 28.828883,
+    "lon": 77.569229,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_63",
+    "name": "Mandir Location 63",
+    "category": "Mandir",
+    "lat": 28.856781,
+    "lon": 77.591887,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_64",
+    "name": "Mandir Location 64",
+    "category": "Mandir",
+    "lat": 28.82501,
+    "lon": 77.563084,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_65",
+    "name": "Mandir Location 65",
+    "category": "Mandir",
+    "lat": 28.84842,
+    "lon": 77.58757,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_66",
+    "name": "Mandir Location 66",
+    "category": "Mandir",
+    "lat": 28.86683,
+    "lon": 77.600251,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_67",
+    "name": "Mandir Location 67",
+    "category": "Mandir",
+    "lat": 28.85021,
+    "lon": 77.58679,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_68",
+    "name": "Mandir Location 68",
+    "category": "Mandir",
+    "lat": 28.82909,
+    "lon": 77.57122,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_69",
+    "name": "Mandir Location 69",
+    "category": "Mandir",
+    "lat": 28.853232,
+    "lon": 77.590312,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_70",
+    "name": "Mandir Location 70",
+    "category": "Mandir",
+    "lat": 28.853749,
+    "lon": 77.590306,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_71",
+    "name": "Mandir Location 71",
+    "category": "Mandir",
+    "lat": 28.84881,
+    "lon": 77.587,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_72",
+    "name": "Mandir Location 72",
+    "category": "Mandir",
+    "lat": 28.84825,
+    "lon": 77.589,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_73",
+    "name": "Mandir Location 73",
+    "category": "Mandir",
+    "lat": 28.876491,
+    "lon": 77.539256,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_74",
+    "name": "Mandir Location 74",
+    "category": "Mandir",
+    "lat": 28.877221,
+    "lon": 77.533094,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_75",
+    "name": "Mandir Location 75",
+    "category": "Mandir",
+    "lat": 28.876877,
+    "lon": 77.534864,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_76",
+    "name": "Mandir Location 76",
+    "category": "Mandir",
+    "lat": 28.878015,
+    "lon": 77.539246,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_77",
+    "name": "Mandir Location 77",
+    "category": "Mandir",
+    "lat": 28.879965,
+    "lon": 77.544514,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_78",
+    "name": "Mandir Location 78",
+    "category": "Mandir",
+    "lat": 28.87095,
+    "lon": 77.540952,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_79",
+    "name": "Mandir Location 79",
+    "category": "Mandir",
+    "lat": 28.836901,
+    "lon": 77.518109,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_80",
+    "name": "Mandir Location 80",
+    "category": "Mandir",
+    "lat": 28.834699,
+    "lon": 77.525246,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_81",
+    "name": "Mandir Location 81",
+    "category": "Mandir",
+    "lat": 28.799297,
+    "lon": 77.520577,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_82",
+    "name": "Mandir Location 82",
+    "category": "Mandir",
+    "lat": 28.772098,
+    "lon": 77.623398,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_83",
+    "name": "Mandir Location 83",
+    "category": "Mandir",
+    "lat": 28.798835,
+    "lon": 77.620928,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_84",
+    "name": "Mandir Location 84",
+    "category": "Mandir",
+    "lat": 28.784139,
+    "lon": 77.649895,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_85",
+    "name": "Mandir Location 85",
+    "category": "Mandir",
+    "lat": 28.738768,
+    "lon": 77.630751,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_86",
+    "name": "Mandir Location 86",
+    "category": "Mandir",
+    "lat": 28.690221,
+    "lon": 77.558044,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_87",
+    "name": "Mandir Location 87",
+    "category": "Mandir",
+    "lat": 28.777665,
+    "lon": 77.510366,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_88",
+    "name": "Mandir Location 88",
+    "category": "Mandir",
+    "lat": 28.775764,
+    "lon": 77.514023,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_89",
+    "name": "Mandir Location 89",
+    "category": "Mandir",
+    "lat": 28.769979,
+    "lon": 77.509765,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_90",
+    "name": "Mandir Location 90",
+    "category": "Mandir",
+    "lat": 28.75594,
+    "lon": 77.43654,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_91",
+    "name": "Mandir Location 91",
+    "category": "Mandir",
+    "lat": 28.76513,
+    "lon": 77.46668,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_92",
+    "name": "Mandir Location 92",
+    "category": "Mandir",
+    "lat": 28.792456,
+    "lon": 77.503404,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_93",
+    "name": "Mandir Location 93",
+    "category": "Mandir",
+    "lat": 28.859614,
+    "lon": 77.417032,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_94",
+    "name": "Mandir Location 94",
+    "category": "Mandir",
+    "lat": 28.833225,
+    "lon": 77.44538,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_95",
+    "name": "Mandir Location 95",
+    "category": "Mandir",
+    "lat": 28.7493,
+    "lon": 77.4914,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_96",
+    "name": "Mandir Location 96",
+    "category": "Mandir",
+    "lat": 28.7475,
+    "lon": 77.4895,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_97",
+    "name": "Mandir Location 97",
+    "category": "Mandir",
+    "lat": 28.7527,
+    "lon": 77.4943,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_98",
+    "name": "Mandir Location 98",
+    "category": "Mandir",
+    "lat": 28.77845,
+    "lon": 77.33517,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_99",
+    "name": "Mandir Location 99",
+    "category": "Mandir",
+    "lat": 28.72702,
+    "lon": 77.4045,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_100",
+    "name": "Mandir Location 100",
+    "category": "Mandir",
+    "lat": 28.746965,
+    "lon": 77.313927,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_101",
+    "name": "Mandir Location 101",
+    "category": "Mandir",
+    "lat": 28.740478,
+    "lon": 77.311709,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_102",
+    "name": "Mandir Location 102",
+    "category": "Mandir",
+    "lat": 28.77835,
+    "lon": 77.33431,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_103",
+    "name": "Mandir Location 103",
+    "category": "Mandir",
+    "lat": 28.72856,
+    "lon": 77.40429,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_104",
+    "name": "Mandir Location 104",
+    "category": "Mandir",
+    "lat": 28.739582,
+    "lon": 77.298145,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_105",
+    "name": "Mandir Location 105",
+    "category": "Mandir",
+    "lat": 28.743149,
+    "lon": 77.29659,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_106",
+    "name": "Mandir Location 106",
+    "category": "Mandir",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_107",
+    "name": "Mandir Location 107",
+    "category": "Mandir",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_108",
+    "name": "Mandir Location 108",
+    "category": "Mandir",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_109",
+    "name": "Mandir Location 109",
+    "category": "Mandir",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_110",
+    "name": "Mandir Location 110",
+    "category": "Mandir",
+    "lat": 28.747441,
+    "lon": 77.288757,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_111",
+    "name": "Mandir Location 111",
+    "category": "Mandir",
+    "lat": 28.747441,
+    "lon": 77.288757,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_112",
+    "name": "Mandir Location 112",
+    "category": "Mandir",
+    "lat": 28.815243,
+    "lon": 77.274072,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_113",
+    "name": "Mandir Location 113",
+    "category": "Mandir",
+    "lat": 28.815412,
+    "lon": 77.27367,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_114",
+    "name": "Mandir Location 114",
+    "category": "Mandir",
+    "lat": 28.797174,
+    "lon": 77.275725,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_115",
+    "name": "Mandir Location 115",
+    "category": "Mandir",
+    "lat": 28.785849,
+    "lon": 77.277882,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_116",
+    "name": "Mandir Location 116",
+    "category": "Mandir",
+    "lat": 28.42072,
+    "lon": 77.280455,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_117",
+    "name": "Mandir Location 117",
+    "category": "Mandir",
+    "lat": 28.766484,
+    "lon": 77.27821,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_118",
+    "name": "Mandir Location 118",
+    "category": "Mandir",
+    "lat": 28.714555,
+    "lon": 77.303109,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_119",
+    "name": "Mandir Location 119",
+    "category": "Mandir",
+    "lat": 28.710452,
+    "lon": 77.291672,
+    "emoji": "🛕"
+  },
+  {
+    "id": "man_120",
+    "name": "Mandir Location 120",
+    "category": "Mandir",
+    "lat": 28.711424,
+    "lon": 77.294516,
+    "emoji": "🛕"
+  },
+  {
+    "id": "mas_1",
+    "name": "Masjid Location 1",
+    "category": "Masjid",
+    "lat": 28.419221,
+    "lon": 77.442112,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_2",
+    "name": "Masjid Location 2",
+    "category": "Masjid",
+    "lat": 28.432229,
+    "lon": 77.452515,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_3",
+    "name": "Masjid Location 3",
+    "category": "Masjid",
+    "lat": 28.648233,
+    "lon": 77.44421,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_4",
+    "name": "Masjid Location 4",
+    "category": "Masjid",
+    "lat": 28.663752,
+    "lon": 77.425432,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_5",
+    "name": "Masjid Location 5",
+    "category": "Masjid",
+    "lat": 28.662754,
+    "lon": 77.423758,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_6",
+    "name": "Masjid Location 6",
+    "category": "Masjid",
+    "lat": 28.662945,
+    "lon": 77.423752,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_7",
+    "name": "Masjid Location 7",
+    "category": "Masjid",
+    "lat": 28.6573,
+    "lon": 77.41923,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_8",
+    "name": "Masjid Location 8",
+    "category": "Masjid",
+    "lat": 28.651244,
+    "lon": 77.419832,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_9",
+    "name": "Masjid Location 9",
+    "category": "Masjid",
+    "lat": 28.698253,
+    "lon": 77.444761,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_10",
+    "name": "Masjid Location 10",
+    "category": "Masjid",
+    "lat": 28.686307,
+    "lon": 77.44595,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_11",
+    "name": "Masjid Location 11",
+    "category": "Masjid",
+    "lat": 28.683975,
+    "lon": 77.515161,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_12",
+    "name": "Masjid Location 12",
+    "category": "Masjid",
+    "lat": 28.636015,
+    "lon": 77.440848,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_13",
+    "name": "Masjid Location 13",
+    "category": "Masjid",
+    "lat": 28.6929,
+    "lon": 77.3555,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_14",
+    "name": "Masjid Location 14",
+    "category": "Masjid",
+    "lat": 28.67453,
+    "lon": 77.39308,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_15",
+    "name": "Masjid Location 15",
+    "category": "Masjid",
+    "lat": 28.6833,
+    "lon": 77.3486,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_16",
+    "name": "Masjid Location 16",
+    "category": "Masjid",
+    "lat": 28.689353,
+    "lon": 77.356024,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_17",
+    "name": "Masjid Location 17",
+    "category": "Masjid",
+    "lat": 28.817,
+    "lon": 77.55448,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_18",
+    "name": "Masjid Location 18",
+    "category": "Masjid",
+    "lat": 28.837012,
+    "lon": 77.523755,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_19",
+    "name": "Masjid Location 19",
+    "category": "Masjid",
+    "lat": 28.798066,
+    "lon": 77.519286,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_20",
+    "name": "Masjid Location 20",
+    "category": "Masjid",
+    "lat": 28.796961,
+    "lon": 77.520611,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_21",
+    "name": "Masjid Location 21",
+    "category": "Masjid",
+    "lat": 28.689404,
+    "lon": 77.556792,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_22",
+    "name": "Masjid Location 22",
+    "category": "Masjid",
+    "lat": 28.770375,
+    "lon": 77.510142,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_23",
+    "name": "Masjid Location 23",
+    "category": "Masjid",
+    "lat": 28.780151,
+    "lon": 77.504721,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_24",
+    "name": "Masjid Location 24",
+    "category": "Masjid",
+    "lat": 28.785048,
+    "lon": 77.498528,
+    "emoji": "🕌"
+  },
+  {
+    "id": "mas_25",
+    "name": "Masjid Location 25",
+    "category": "Masjid",
+    "lat": 28.763102,
+    "lon": 77.271141,
+    "emoji": "🕌"
+  },
+  {
+    "id": "ms_1",
+    "name": "Meat Shop Location 1",
+    "category": "Meat Shop",
+    "lat": 28.65625,
+    "lon": 77.42547,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_2",
+    "name": "Meat Shop Location 2",
+    "category": "Meat Shop",
+    "lat": 28.32557,
+    "lon": 77.23562,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_3",
+    "name": "Meat Shop Location 3",
+    "category": "Meat Shop",
+    "lat": 28.32562,
+    "lon": 77.56987,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_4",
+    "name": "Meat Shop Location 4",
+    "category": "Meat Shop",
+    "lat": 28.8456,
+    "lon": 77.5658,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_5",
+    "name": "Meat Shop Location 5",
+    "category": "Meat Shop",
+    "lat": 28.64256,
+    "lon": 77.8795,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_6",
+    "name": "Meat Shop Location 6",
+    "category": "Meat Shop",
+    "lat": 28.6589,
+    "lon": 77.4521,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_7",
+    "name": "Meat Shop Location 7",
+    "category": "Meat Shop",
+    "lat": 28.7582,
+    "lon": 77.43254,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_8",
+    "name": "Meat Shop Location 8",
+    "category": "Meat Shop",
+    "lat": 28.65987,
+    "lon": 77.415485,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_9",
+    "name": "Meat Shop Location 9",
+    "category": "Meat Shop",
+    "lat": 28.658657,
+    "lon": 77.41528,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_10",
+    "name": "Meat Shop Location 10",
+    "category": "Meat Shop",
+    "lat": 28.65656,
+    "lon": 77.41562,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_11",
+    "name": "Meat Shop Location 11",
+    "category": "Meat Shop",
+    "lat": 28.65652,
+    "lon": 77.48565,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_12",
+    "name": "Meat Shop Location 12",
+    "category": "Meat Shop",
+    "lat": 28.656212,
+    "lon": 77.485632,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_13",
+    "name": "Meat Shop Location 13",
+    "category": "Meat Shop",
+    "lat": 28.65625,
+    "lon": 77.48987,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_14",
+    "name": "Meat Shop Location 14",
+    "category": "Meat Shop",
+    "lat": 28.65895,
+    "lon": 77.49856,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_15",
+    "name": "Meat Shop Location 15",
+    "category": "Meat Shop",
+    "lat": 28.68985,
+    "lon": 77.6956,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_16",
+    "name": "Meat Shop Location 16",
+    "category": "Meat Shop",
+    "lat": 28.6856,
+    "lon": 77.45689,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_17",
+    "name": "Meat Shop Location 17",
+    "category": "Meat Shop",
+    "lat": 28.65895,
+    "lon": 77.46523,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_18",
+    "name": "Meat Shop Location 18",
+    "category": "Meat Shop",
+    "lat": 28.6895,
+    "lon": 77.46985,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_19",
+    "name": "Meat Shop Location 19",
+    "category": "Meat Shop",
+    "lat": 28.69856,
+    "lon": 77.7958,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_20",
+    "name": "Meat Shop Location 20",
+    "category": "Meat Shop",
+    "lat": 28.66589,
+    "lon": 77.48752,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_21",
+    "name": "Meat Shop Location 21",
+    "category": "Meat Shop",
+    "lat": 28.9856,
+    "lon": 77.48965,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_22",
+    "name": "Meat Shop Location 22",
+    "category": "Meat Shop",
+    "lat": 28.6985,
+    "lon": 77.8585,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_23",
+    "name": "Meat Shop Location 23",
+    "category": "Meat Shop",
+    "lat": 28.9632,
+    "lon": 77.9875,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_24",
+    "name": "Meat Shop Location 24",
+    "category": "Meat Shop",
+    "lat": 28.6789,
+    "lon": 77.4985,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_25",
+    "name": "Meat Shop Location 25",
+    "category": "Meat Shop",
+    "lat": 28.6598,
+    "lon": 77.4869,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_26",
+    "name": "Meat Shop Location 26",
+    "category": "Meat Shop",
+    "lat": 28.65652,
+    "lon": 77.47859,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_27",
+    "name": "Meat Shop Location 27",
+    "category": "Meat Shop",
+    "lat": 28.6965,
+    "lon": 77.49852,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_28",
+    "name": "Meat Shop Location 28",
+    "category": "Meat Shop",
+    "lat": 28.6956,
+    "lon": 77.49856,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_29",
+    "name": "Meat Shop Location 29",
+    "category": "Meat Shop",
+    "lat": 28.60956,
+    "lon": 77.45066,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_30",
+    "name": "Meat Shop Location 30",
+    "category": "Meat Shop",
+    "lat": 28.651295,
+    "lon": 77.420035,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_31",
+    "name": "Meat Shop Location 31",
+    "category": "Meat Shop",
+    "lat": 28.651282,
+    "lon": 77.41999,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_32",
+    "name": "Meat Shop Location 32",
+    "category": "Meat Shop",
+    "lat": 28.651227,
+    "lon": 77.419891,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_33",
+    "name": "Meat Shop Location 33",
+    "category": "Meat Shop",
+    "lat": 28.651227,
+    "lon": 77.419891,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_34",
+    "name": "Meat Shop Location 34",
+    "category": "Meat Shop",
+    "lat": 28.651244,
+    "lon": 77.419832,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_35",
+    "name": "Meat Shop Location 35",
+    "category": "Meat Shop",
+    "lat": 28.651295,
+    "lon": 77.420035,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_36",
+    "name": "Meat Shop Location 36",
+    "category": "Meat Shop",
+    "lat": 28.658144,
+    "lon": 77.420085,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_37",
+    "name": "Meat Shop Location 37",
+    "category": "Meat Shop",
+    "lat": 28.651227,
+    "lon": 77.419891,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_38",
+    "name": "Meat Shop Location 38",
+    "category": "Meat Shop",
+    "lat": 28.651227,
+    "lon": 77.419891,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_39",
+    "name": "Meat Shop Location 39",
+    "category": "Meat Shop",
+    "lat": 28.651295,
+    "lon": 77.420035,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_40",
+    "name": "Meat Shop Location 40",
+    "category": "Meat Shop",
+    "lat": 28.651282,
+    "lon": 77.41999,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_41",
+    "name": "Meat Shop Location 41",
+    "category": "Meat Shop",
+    "lat": 28.651375,
+    "lon": 77.419908,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_42",
+    "name": "Meat Shop Location 42",
+    "category": "Meat Shop",
+    "lat": 28.651375,
+    "lon": 77.419908,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_43",
+    "name": "Meat Shop Location 43",
+    "category": "Meat Shop",
+    "lat": 28.651386,
+    "lon": 77.419948,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_44",
+    "name": "Meat Shop Location 44",
+    "category": "Meat Shop",
+    "lat": 28.651386,
+    "lon": 77.419948,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_45",
+    "name": "Meat Shop Location 45",
+    "category": "Meat Shop",
+    "lat": 28.651386,
+    "lon": 77.419948,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_46",
+    "name": "Meat Shop Location 46",
+    "category": "Meat Shop",
+    "lat": 28.658144,
+    "lon": 77.420085,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_47",
+    "name": "Meat Shop Location 47",
+    "category": "Meat Shop",
+    "lat": 28.651386,
+    "lon": 77.419948,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_48",
+    "name": "Meat Shop Location 48",
+    "category": "Meat Shop",
+    "lat": 28.651282,
+    "lon": 77.41999,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_49",
+    "name": "Meat Shop Location 49",
+    "category": "Meat Shop",
+    "lat": 28.651295,
+    "lon": 77.420035,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_50",
+    "name": "Meat Shop Location 50",
+    "category": "Meat Shop",
+    "lat": 28.651386,
+    "lon": 77.419948,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_51",
+    "name": "Meat Shop Location 51",
+    "category": "Meat Shop",
+    "lat": 28.651282,
+    "lon": 77.41999,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_52",
+    "name": "Meat Shop Location 52",
+    "category": "Meat Shop",
+    "lat": 28.651227,
+    "lon": 77.419891,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_53",
+    "name": "Meat Shop Location 53",
+    "category": "Meat Shop",
+    "lat": 28.520507,
+    "lon": 77.180071,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_54",
+    "name": "Meat Shop Location 54",
+    "category": "Meat Shop",
+    "lat": 28.677039,
+    "lon": 77.474851,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_55",
+    "name": "Meat Shop Location 55",
+    "category": "Meat Shop",
+    "lat": 28.732005,
+    "lon": 77.475882,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_56",
+    "name": "Meat Shop Location 56",
+    "category": "Meat Shop",
+    "lat": 28.732155,
+    "lon": 77.47644,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_57",
+    "name": "Meat Shop Location 57",
+    "category": "Meat Shop",
+    "lat": 28.702015,
+    "lon": 77.448766,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_58",
+    "name": "Meat Shop Location 58",
+    "category": "Meat Shop",
+    "lat": 28.714205,
+    "lon": 77.459525,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_59",
+    "name": "Meat Shop Location 59",
+    "category": "Meat Shop",
+    "lat": 28.701031,
+    "lon": 77.419669,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_60",
+    "name": "Meat Shop Location 60",
+    "category": "Meat Shop",
+    "lat": 28.700973,
+    "lon": 77.419787,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_61",
+    "name": "Meat Shop Location 61",
+    "category": "Meat Shop",
+    "lat": 28.701281,
+    "lon": 77.419864,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_62",
+    "name": "Meat Shop Location 62",
+    "category": "Meat Shop",
+    "lat": 28.701163,
+    "lon": 77.419939,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_63",
+    "name": "Meat Shop Location 63",
+    "category": "Meat Shop",
+    "lat": 28.67545,
+    "lon": 77.417564,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_64",
+    "name": "Meat Shop Location 64",
+    "category": "Meat Shop",
+    "lat": 28.683947,
+    "lon": 77.428556,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_65",
+    "name": "Meat Shop Location 65",
+    "category": "Meat Shop",
+    "lat": 28.683996,
+    "lon": 77.428769,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_66",
+    "name": "Meat Shop Location 66",
+    "category": "Meat Shop",
+    "lat": 28.698911,
+    "lon": 77.444916,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_67",
+    "name": "Meat Shop Location 67",
+    "category": "Meat Shop",
+    "lat": 28.660993,
+    "lon": 77.477858,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_68",
+    "name": "Meat Shop Location 68",
+    "category": "Meat Shop",
+    "lat": 28.659027,
+    "lon": 77.476568,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_69",
+    "name": "Meat Shop Location 69",
+    "category": "Meat Shop",
+    "lat": 28.663881,
+    "lon": 77.479737,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_70",
+    "name": "Meat Shop Location 70",
+    "category": "Meat Shop",
+    "lat": 28.658786,
+    "lon": 77.476413,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_71",
+    "name": "Meat Shop Location 71",
+    "category": "Meat Shop",
+    "lat": 28.673951,
+    "lon": 77.495232,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_72",
+    "name": "Meat Shop Location 72",
+    "category": "Meat Shop",
+    "lat": 28.632494,
+    "lon": 77.466627,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_73",
+    "name": "Meat Shop Location 73",
+    "category": "Meat Shop",
+    "lat": 28.633303,
+    "lon": 77.465546,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_74",
+    "name": "Meat Shop Location 74",
+    "category": "Meat Shop",
+    "lat": 28.632291,
+    "lon": 77.466954,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_75",
+    "name": "Meat Shop Location 75",
+    "category": "Meat Shop",
+    "lat": 28.640981,
+    "lon": 77.415461,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_76",
+    "name": "Meat Shop Location 76",
+    "category": "Meat Shop",
+    "lat": 28.637504,
+    "lon": 77.400715,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_77",
+    "name": "Meat Shop Location 77",
+    "category": "Meat Shop",
+    "lat": 28.637626,
+    "lon": 77.401099,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_78",
+    "name": "Meat Shop Location 78",
+    "category": "Meat Shop",
+    "lat": 28.6774,
+    "lon": 77.3499,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_79",
+    "name": "Meat Shop Location 79",
+    "category": "Meat Shop",
+    "lat": 28.6774,
+    "lon": 77.3499,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_80",
+    "name": "Meat Shop Location 80",
+    "category": "Meat Shop",
+    "lat": 28.6774,
+    "lon": 77.3499,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_81",
+    "name": "Meat Shop Location 81",
+    "category": "Meat Shop",
+    "lat": 28.6752,
+    "lon": 77.3442,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_82",
+    "name": "Meat Shop Location 82",
+    "category": "Meat Shop",
+    "lat": 28.6751,
+    "lon": 77.3432,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_83",
+    "name": "Meat Shop Location 83",
+    "category": "Meat Shop",
+    "lat": 28.6772,
+    "lon": 77.3439,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_84",
+    "name": "Meat Shop Location 84",
+    "category": "Meat Shop",
+    "lat": 28.693294,
+    "lon": 77.349565,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_85",
+    "name": "Meat Shop Location 85",
+    "category": "Meat Shop",
+    "lat": 28.726425,
+    "lon": 77.339353,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_86",
+    "name": "Meat Shop Location 86",
+    "category": "Meat Shop",
+    "lat": 28.7259,
+    "lon": 77.335605,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_87",
+    "name": "Meat Shop Location 87",
+    "category": "Meat Shop",
+    "lat": 28.725648,
+    "lon": 77.355321,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_88",
+    "name": "Meat Shop Location 88",
+    "category": "Meat Shop",
+    "lat": 28.698148,
+    "lon": 77.333515,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_89",
+    "name": "Meat Shop Location 89",
+    "category": "Meat Shop",
+    "lat": 28.668075,
+    "lon": 77.432531,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_90",
+    "name": "Meat Shop Location 90",
+    "category": "Meat Shop",
+    "lat": 28.86363,
+    "lon": 77.55682,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_91",
+    "name": "Meat Shop Location 91",
+    "category": "Meat Shop",
+    "lat": 28.8379,
+    "lon": 77.580107,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_92",
+    "name": "Meat Shop Location 92",
+    "category": "Meat Shop",
+    "lat": 28.88536,
+    "lon": 77.61363,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_93",
+    "name": "Meat Shop Location 93",
+    "category": "Meat Shop",
+    "lat": 28.85946,
+    "lon": 77.59296,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_94",
+    "name": "Meat Shop Location 94",
+    "category": "Meat Shop",
+    "lat": 28.772495,
+    "lon": 77.624041,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_95",
+    "name": "Meat Shop Location 95",
+    "category": "Meat Shop",
+    "lat": 28.79814,
+    "lon": 77.621808,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_96",
+    "name": "Meat Shop Location 96",
+    "category": "Meat Shop",
+    "lat": 28.772495,
+    "lon": 77.624041,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_97",
+    "name": "Meat Shop Location 97",
+    "category": "Meat Shop",
+    "lat": 28.79814,
+    "lon": 77.621808,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_98",
+    "name": "Meat Shop Location 98",
+    "category": "Meat Shop",
+    "lat": 28.768016,
+    "lon": 77.508277,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_99",
+    "name": "Meat Shop Location 99",
+    "category": "Meat Shop",
+    "lat": 28.771528,
+    "lon": 77.511445,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_100",
+    "name": "Meat Shop Location 100",
+    "category": "Meat Shop",
+    "lat": 28.780048,
+    "lon": 77.505229,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_101",
+    "name": "Meat Shop Location 101",
+    "category": "Meat Shop",
+    "lat": 28.780386,
+    "lon": 77.504249,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_102",
+    "name": "Meat Shop Location 102",
+    "category": "Meat Shop",
+    "lat": 28.779742,
+    "lon": 77.506289,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_103",
+    "name": "Meat Shop Location 103",
+    "category": "Meat Shop",
+    "lat": 28.780146,
+    "lon": 77.505222,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_104",
+    "name": "Meat Shop Location 104",
+    "category": "Meat Shop",
+    "lat": 28.780124,
+    "lon": 77.505214,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_105",
+    "name": "Meat Shop Location 105",
+    "category": "Meat Shop",
+    "lat": 28.780194,
+    "lon": 77.505079,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_106",
+    "name": "Meat Shop Location 106",
+    "category": "Meat Shop",
+    "lat": 28.782566,
+    "lon": 77.500311,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_107",
+    "name": "Meat Shop Location 107",
+    "category": "Meat Shop",
+    "lat": 28.782835,
+    "lon": 77.499748,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_108",
+    "name": "Meat Shop Location 108",
+    "category": "Meat Shop",
+    "lat": 28.781662,
+    "lon": 77.500918,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_109",
+    "name": "Meat Shop Location 109",
+    "category": "Meat Shop",
+    "lat": 28.782934,
+    "lon": 77.499743,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_110",
+    "name": "Meat Shop Location 110",
+    "category": "Meat Shop",
+    "lat": 28.783978,
+    "lon": 77.49847,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_111",
+    "name": "Meat Shop Location 111",
+    "category": "Meat Shop",
+    "lat": 28.783978,
+    "lon": 77.49847,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_112",
+    "name": "Meat Shop Location 112",
+    "category": "Meat Shop",
+    "lat": 28.783246,
+    "lon": 77.499257,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_113",
+    "name": "Meat Shop Location 113",
+    "category": "Meat Shop",
+    "lat": 28.78338,
+    "lon": 77.49913,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_114",
+    "name": "Meat Shop Location 114",
+    "category": "Meat Shop",
+    "lat": 28.783143,
+    "lon": 77.499435,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_115",
+    "name": "Meat Shop Location 115",
+    "category": "Meat Shop",
+    "lat": 28.783001,
+    "lon": 77.499631,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_116",
+    "name": "Meat Shop Location 116",
+    "category": "Meat Shop",
+    "lat": 28.849152,
+    "lon": 77.42793,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_117",
+    "name": "Meat Shop Location 117",
+    "category": "Meat Shop",
+    "lat": 28.757656,
+    "lon": 77.499276,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_118",
+    "name": "Meat Shop Location 118",
+    "category": "Meat Shop",
+    "lat": 28.757696,
+    "lon": 77.499286,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_119",
+    "name": "Meat Shop Location 119",
+    "category": "Meat Shop",
+    "lat": 28.753271,
+    "lon": 77.495511,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_120",
+    "name": "Meat Shop Location 120",
+    "category": "Meat Shop",
+    "lat": 28.753291,
+    "lon": 77.495591,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_121",
+    "name": "Meat Shop Location 121",
+    "category": "Meat Shop",
+    "lat": 28.763439,
+    "lon": 77.504513,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_122",
+    "name": "Meat Shop Location 122",
+    "category": "Meat Shop",
+    "lat": 28.74931,
+    "lon": 77.28671,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_123",
+    "name": "Meat Shop Location 123",
+    "category": "Meat Shop",
+    "lat": 28.73921,
+    "lon": 77.27652,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_124",
+    "name": "Meat Shop Location 124",
+    "category": "Meat Shop",
+    "lat": 28.73921,
+    "lon": 77.2543,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_125",
+    "name": "Meat Shop Location 125",
+    "category": "Meat Shop",
+    "lat": 28.737112,
+    "lon": 77.242141,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_126",
+    "name": "Meat Shop Location 126",
+    "category": "Meat Shop",
+    "lat": 28.75212,
+    "lon": 77.231234,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_127",
+    "name": "Meat Shop Location 127",
+    "category": "Meat Shop",
+    "lat": 28.74793,
+    "lon": 77.28982,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_128",
+    "name": "Meat Shop Location 128",
+    "category": "Meat Shop",
+    "lat": 28.74231,
+    "lon": 77.99921,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_129",
+    "name": "Meat Shop Location 129",
+    "category": "Meat Shop",
+    "lat": 28.717443,
+    "lon": 77.310425,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_130",
+    "name": "Meat Shop Location 130",
+    "category": "Meat Shop",
+    "lat": 28.718154,
+    "lon": 77.312176,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_131",
+    "name": "Meat Shop Location 131",
+    "category": "Meat Shop",
+    "lat": 28.717919,
+    "lon": 77.311477,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_132",
+    "name": "Meat Shop Location 132",
+    "category": "Meat Shop",
+    "lat": 28.717485,
+    "lon": 77.310424,
+    "emoji": "🥩"
+  },
+  {
+    "id": "ms_133",
+    "name": "Meat Shop Location 133",
+    "category": "Meat Shop",
+    "lat": 28.716705,
+    "lon": 77.308089,
+    "emoji": "🥩"
+  },
+  {
+    "id": "mp_1",
+    "name": "Mix Population Location 1",
+    "category": "Mix Population",
+    "lat": 28.664902,
+    "lon": 77.42296,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_2",
+    "name": "Mix Population Location 2",
+    "category": "Mix Population",
+    "lat": 28.662065,
+    "lon": 77.424689,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_3",
+    "name": "Mix Population Location 3",
+    "category": "Mix Population",
+    "lat": 28.64904,
+    "lon": 77.44247,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_4",
+    "name": "Mix Population Location 4",
+    "category": "Mix Population",
+    "lat": 28.64807,
+    "lon": 77.4441,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_5",
+    "name": "Mix Population Location 5",
+    "category": "Mix Population",
+    "lat": 28.667416,
+    "lon": 77.433745,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_6",
+    "name": "Mix Population Location 6",
+    "category": "Mix Population",
+    "lat": 28.660932,
+    "lon": 77.421677,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_7",
+    "name": "Mix Population Location 7",
+    "category": "Mix Population",
+    "lat": 28.651227,
+    "lon": 77.419891,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_8",
+    "name": "Mix Population Location 8",
+    "category": "Mix Population",
+    "lat": 28.649948,
+    "lon": 77.420624,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_9",
+    "name": "Mix Population Location 9",
+    "category": "Mix Population",
+    "lat": 28.64433,
+    "lon": 77.4232,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_10",
+    "name": "Mix Population Location 10",
+    "category": "Mix Population",
+    "lat": 28.674376,
+    "lon": 77.458863,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_11",
+    "name": "Mix Population Location 11",
+    "category": "Mix Population",
+    "lat": 28.674376,
+    "lon": 77.458863,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_12",
+    "name": "Mix Population Location 12",
+    "category": "Mix Population",
+    "lat": 28.68694,
+    "lon": 77.429992,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_13",
+    "name": "Mix Population Location 13",
+    "category": "Mix Population",
+    "lat": 28.673185,
+    "lon": 77.410462,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_14",
+    "name": "Mix Population Location 14",
+    "category": "Mix Population",
+    "lat": 28.677944,
+    "lon": 77.427071,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_15",
+    "name": "Mix Population Location 15",
+    "category": "Mix Population",
+    "lat": 28.673649,
+    "lon": 77.42514,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_16",
+    "name": "Mix Population Location 16",
+    "category": "Mix Population",
+    "lat": 28.673412,
+    "lon": 77.419497,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_17",
+    "name": "Mix Population Location 17",
+    "category": "Mix Population",
+    "lat": 28.666931,
+    "lon": 77.423574,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_18",
+    "name": "Mix Population Location 18",
+    "category": "Mix Population",
+    "lat": 28.669265,
+    "lon": 77.422917,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_19",
+    "name": "Mix Population Location 19",
+    "category": "Mix Population",
+    "lat": 28.671106,
+    "lon": 77.428561,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_20",
+    "name": "Mix Population Location 20",
+    "category": "Mix Population",
+    "lat": 28.670113,
+    "lon": 77.418963,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_21",
+    "name": "Mix Population Location 21",
+    "category": "Mix Population",
+    "lat": 28.606642,
+    "lon": 77.382214,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_22",
+    "name": "Mix Population Location 22",
+    "category": "Mix Population",
+    "lat": 28.676737,
+    "lon": 77.422193,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_23",
+    "name": "Mix Population Location 23",
+    "category": "Mix Population",
+    "lat": 28.678175,
+    "lon": 77.423682,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_24",
+    "name": "Mix Population Location 24",
+    "category": "Mix Population",
+    "lat": 28.661723,
+    "lon": 77.535026,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_25",
+    "name": "Mix Population Location 25",
+    "category": "Mix Population",
+    "lat": 28.683661,
+    "lon": 77.514913,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_26",
+    "name": "Mix Population Location 26",
+    "category": "Mix Population",
+    "lat": 28.684166,
+    "lon": 77.521512,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_27",
+    "name": "Mix Population Location 27",
+    "category": "Mix Population",
+    "lat": 28.689684,
+    "lon": 77.490725,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_28",
+    "name": "Mix Population Location 28",
+    "category": "Mix Population",
+    "lat": 28.661034,
+    "lon": 77.478252,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_29",
+    "name": "Mix Population Location 29",
+    "category": "Mix Population",
+    "lat": 28.651583,
+    "lon": 77.482614,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_30",
+    "name": "Mix Population Location 30",
+    "category": "Mix Population",
+    "lat": 28.638795,
+    "lon": 77.463985,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_31",
+    "name": "Mix Population Location 31",
+    "category": "Mix Population",
+    "lat": 28.637061,
+    "lon": 77.469125,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_32",
+    "name": "Mix Population Location 32",
+    "category": "Mix Population",
+    "lat": 28.637061,
+    "lon": 77.469125,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_33",
+    "name": "Mix Population Location 33",
+    "category": "Mix Population",
+    "lat": 28.635137,
+    "lon": 77.470737,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_34",
+    "name": "Mix Population Location 34",
+    "category": "Mix Population",
+    "lat": 28.633652,
+    "lon": 77.475425,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_35",
+    "name": "Mix Population Location 35",
+    "category": "Mix Population",
+    "lat": 28.679791,
+    "lon": 77.526204,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_36",
+    "name": "Mix Population Location 36",
+    "category": "Mix Population",
+    "lat": 28.676504,
+    "lon": 77.524344,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_37",
+    "name": "Mix Population Location 37",
+    "category": "Mix Population",
+    "lat": 28.684319,
+    "lon": 77.525963,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_38",
+    "name": "Mix Population Location 38",
+    "category": "Mix Population",
+    "lat": 28.676504,
+    "lon": 77.524344,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_39",
+    "name": "Mix Population Location 39",
+    "category": "Mix Population",
+    "lat": 28.636015,
+    "lon": 77.440848,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_40",
+    "name": "Mix Population Location 40",
+    "category": "Mix Population",
+    "lat": 28.662876,
+    "lon": 77.343407,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_41",
+    "name": "Mix Population Location 41",
+    "category": "Mix Population",
+    "lat": 28.697322,
+    "lon": 77.328338,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_42",
+    "name": "Mix Population Location 42",
+    "category": "Mix Population",
+    "lat": 28.697897,
+    "lon": 77.327026,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_43",
+    "name": "Mix Population Location 43",
+    "category": "Mix Population",
+    "lat": 28.694075,
+    "lon": 77.345381,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_44",
+    "name": "Mix Population Location 44",
+    "category": "Mix Population",
+    "lat": 28.68966,
+    "lon": 77.355205,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_45",
+    "name": "Mix Population Location 45",
+    "category": "Mix Population",
+    "lat": 28.694678,
+    "lon": 77.359327,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_46",
+    "name": "Mix Population Location 46",
+    "category": "Mix Population",
+    "lat": 28.837145,
+    "lon": 77.5167,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_47",
+    "name": "Mix Population Location 47",
+    "category": "Mix Population",
+    "lat": 28.795867,
+    "lon": 77.517025,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_48",
+    "name": "Mix Population Location 48",
+    "category": "Mix Population",
+    "lat": 28.799108,
+    "lon": 77.620485,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_49",
+    "name": "Mix Population Location 49",
+    "category": "Mix Population",
+    "lat": 28.768729,
+    "lon": 77.630755,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_50",
+    "name": "Mix Population Location 50",
+    "category": "Mix Population",
+    "lat": 28.667755,
+    "lon": 77.65255,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_51",
+    "name": "Mix Population Location 51",
+    "category": "Mix Population",
+    "lat": 28.791183,
+    "lon": 77.626647,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_52",
+    "name": "Mix Population Location 52",
+    "category": "Mix Population",
+    "lat": 28.794008,
+    "lon": 77.635548,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_53",
+    "name": "Mix Population Location 53",
+    "category": "Mix Population",
+    "lat": 28.70706,
+    "lon": 77.55042,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_54",
+    "name": "Mix Population Location 54",
+    "category": "Mix Population",
+    "lat": 28.689625,
+    "lon": 77.555787,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_55",
+    "name": "Mix Population Location 55",
+    "category": "Mix Population",
+    "lat": 28.688857,
+    "lon": 77.550341,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_56",
+    "name": "Mix Population Location 56",
+    "category": "Mix Population",
+    "lat": 28.688633,
+    "lon": 77.547992,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_57",
+    "name": "Mix Population Location 57",
+    "category": "Mix Population",
+    "lat": 28.687889,
+    "lon": 77.542178,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_58",
+    "name": "Mix Population Location 58",
+    "category": "Mix Population",
+    "lat": 28.688459,
+    "lon": 77.545082,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_59",
+    "name": "Mix Population Location 59",
+    "category": "Mix Population",
+    "lat": 28.781089,
+    "lon": 77.494194,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_60",
+    "name": "Mix Population Location 60",
+    "category": "Mix Population",
+    "lat": 28.78396,
+    "lon": 77.497558,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_61",
+    "name": "Mix Population Location 61",
+    "category": "Mix Population",
+    "lat": 28.784445,
+    "lon": 77.497939,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_62",
+    "name": "Mix Population Location 62",
+    "category": "Mix Population",
+    "lat": 28.775314,
+    "lon": 77.514923,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_63",
+    "name": "Mix Population Location 63",
+    "category": "Mix Population",
+    "lat": 28.766913,
+    "lon": 77.507441,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_64",
+    "name": "Mix Population Location 64",
+    "category": "Mix Population",
+    "lat": 28.769977,
+    "lon": 77.510251,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_65",
+    "name": "Mix Population Location 65",
+    "category": "Mix Population",
+    "lat": 28.764044,
+    "lon": 77.50496,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_66",
+    "name": "Mix Population Location 66",
+    "category": "Mix Population",
+    "lat": 28.821373,
+    "lon": 77.51519,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_67",
+    "name": "Mix Population Location 67",
+    "category": "Mix Population",
+    "lat": 28.798682,
+    "lon": 77.506365,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_68",
+    "name": "Mix Population Location 68",
+    "category": "Mix Population",
+    "lat": 28.747441,
+    "lon": 77.288757,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_69",
+    "name": "Mix Population Location 69",
+    "category": "Mix Population",
+    "lat": 28.74793,
+    "lon": 77.28982,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_70",
+    "name": "Mix Population Location 70",
+    "category": "Mix Population",
+    "lat": 28.743968,
+    "lon": 77.304753,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_71",
+    "name": "Mix Population Location 71",
+    "category": "Mix Population",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_72",
+    "name": "Mix Population Location 72",
+    "category": "Mix Population",
+    "lat": 28.750478,
+    "lon": 77.30285,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_73",
+    "name": "Mix Population Location 73",
+    "category": "Mix Population",
+    "lat": 28.743149,
+    "lon": 77.29659,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_74",
+    "name": "Mix Population Location 74",
+    "category": "Mix Population",
+    "lat": 28.72702,
+    "lon": 77.4045,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_75",
+    "name": "Mix Population Location 75",
+    "category": "Mix Population",
+    "lat": 28.746965,
+    "lon": 77.313927,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_76",
+    "name": "Mix Population Location 76",
+    "category": "Mix Population",
+    "lat": 28.77845,
+    "lon": 77.33517,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_77",
+    "name": "Mix Population Location 77",
+    "category": "Mix Population",
+    "lat": 28.77862,
+    "lon": 77.33578,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_78",
+    "name": "Mix Population Location 78",
+    "category": "Mix Population",
+    "lat": 28.815241,
+    "lon": 77.273754,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_79",
+    "name": "Mix Population Location 79",
+    "category": "Mix Population",
+    "lat": 28.793527,
+    "lon": 77.276615,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_80",
+    "name": "Mix Population Location 80",
+    "category": "Mix Population",
+    "lat": 28.786393,
+    "lon": 77.277487,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_81",
+    "name": "Mix Population Location 81",
+    "category": "Mix Population",
+    "lat": 28.745732,
+    "lon": 77.272208,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_82",
+    "name": "Mix Population Location 82",
+    "category": "Mix Population",
+    "lat": 28.748945,
+    "lon": 77.279221,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_83",
+    "name": "Mix Population Location 83",
+    "category": "Mix Population",
+    "lat": 28.744633,
+    "lon": 77.268647,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_84",
+    "name": "Mix Population Location 84",
+    "category": "Mix Population",
+    "lat": 28.714501,
+    "lon": 77.308767,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_85",
+    "name": "Mix Population Location 85",
+    "category": "Mix Population",
+    "lat": 28.708915,
+    "lon": 77.294692,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_86",
+    "name": "Mix Population Location 86",
+    "category": "Mix Population",
+    "lat": 28.708632,
+    "lon": 77.286019,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_87",
+    "name": "Mix Population Location 87",
+    "category": "Mix Population",
+    "lat": 28.712492,
+    "lon": 77.300648,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_88",
+    "name": "Mix Population Location 88",
+    "category": "Mix Population",
+    "lat": 28.714702,
+    "lon": 77.301858,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_89",
+    "name": "Mix Population Location 89",
+    "category": "Mix Population",
+    "lat": 28.71868,
+    "lon": 77.312296,
+    "emoji": "👥"
+  },
+  {
+    "id": "mp_90",
+    "name": "Mix Population Location 90",
+    "category": "Mix Population",
+    "lat": 28.72018,
+    "lon": 77.319583,
+    "emoji": "👥"
+  },
+  {
+    "id": "sm_1",
+    "name": "Shiv Mandir Location 1",
+    "category": "Shiv Mandir",
+    "lat": 28.6667,
+    "lon": 77.4167,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_2",
+    "name": "Shiv Mandir Location 2",
+    "category": "Shiv Mandir",
+    "lat": 28.6601,
+    "lon": 77.4192,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_3",
+    "name": "Shiv Mandir Location 3",
+    "category": "Shiv Mandir",
+    "lat": 28.6642,
+    "lon": 77.4181,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_4",
+    "name": "Shiv Mandir Location 4",
+    "category": "Shiv Mandir",
+    "lat": 28.6946,
+    "lon": 77.4262,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_5",
+    "name": "Shiv Mandir Location 5",
+    "category": "Shiv Mandir",
+    "lat": 28.6653,
+    "lon": 77.4264,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_6",
+    "name": "Shiv Mandir Location 6",
+    "category": "Shiv Mandir",
+    "lat": 28.6608,
+    "lon": 77.4367,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_7",
+    "name": "Shiv Mandir Location 7",
+    "category": "Shiv Mandir",
+    "lat": 28.6566,
+    "lon": 77.4857,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_8",
+    "name": "Shiv Mandir Location 8",
+    "category": "Shiv Mandir",
+    "lat": 28.6508,
+    "lon": 77.4475,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_9",
+    "name": "Shiv Mandir Location 9",
+    "category": "Shiv Mandir",
+    "lat": 28.6521,
+    "lon": 77.4439,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_10",
+    "name": "Shiv Mandir Location 10",
+    "category": "Shiv Mandir",
+    "lat": 28.6534,
+    "lon": 77.4196,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_11",
+    "name": "Shiv Mandir Location 11",
+    "category": "Shiv Mandir",
+    "lat": 28.65494,
+    "lon": 77.414892,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_12",
+    "name": "Shiv Mandir Location 12",
+    "category": "Shiv Mandir",
+    "lat": 28.657661,
+    "lon": 77.412051,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_13",
+    "name": "Shiv Mandir Location 13",
+    "category": "Shiv Mandir",
+    "lat": 28.662132,
+    "lon": 77.413156,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_14",
+    "name": "Shiv Mandir Location 14",
+    "category": "Shiv Mandir",
+    "lat": 28.657147,
+    "lon": 77.422852,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_15",
+    "name": "Shiv Mandir Location 15",
+    "category": "Shiv Mandir",
+    "lat": 28.660748,
+    "lon": 77.41532,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_16",
+    "name": "Shiv Mandir Location 16",
+    "category": "Shiv Mandir",
+    "lat": 28.64696,
+    "lon": 77.405456,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_17",
+    "name": "Shiv Mandir Location 17",
+    "category": "Shiv Mandir",
+    "lat": 28.65328,
+    "lon": 77.403941,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_18",
+    "name": "Shiv Mandir Location 18",
+    "category": "Shiv Mandir",
+    "lat": 28.644343,
+    "lon": 77.424778,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_19",
+    "name": "Shiv Mandir Location 19",
+    "category": "Shiv Mandir",
+    "lat": 28.644481,
+    "lon": 77.423026,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_20",
+    "name": "Shiv Mandir Location 20",
+    "category": "Shiv Mandir",
+    "lat": 28.641912,
+    "lon": 77.422855,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_21",
+    "name": "Shiv Mandir Location 21",
+    "category": "Shiv Mandir",
+    "lat": 28.640797,
+    "lon": 77.42901,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_22",
+    "name": "Shiv Mandir Location 22",
+    "category": "Shiv Mandir",
+    "lat": 28.639199,
+    "lon": 77.43197,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_23",
+    "name": "Shiv Mandir Location 23",
+    "category": "Shiv Mandir",
+    "lat": 28.64277,
+    "lon": 77.430449,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_24",
+    "name": "Shiv Mandir Location 24",
+    "category": "Shiv Mandir",
+    "lat": 28.648418,
+    "lon": 77.426761,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_25",
+    "name": "Shiv Mandir Location 25",
+    "category": "Shiv Mandir",
+    "lat": 28.6553,
+    "lon": 77.45248,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_26",
+    "name": "Shiv Mandir Location 26",
+    "category": "Shiv Mandir",
+    "lat": 28.66369,
+    "lon": 77.463993,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_27",
+    "name": "Shiv Mandir Location 27",
+    "category": "Shiv Mandir",
+    "lat": 28.66946,
+    "lon": 77.45662,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_28",
+    "name": "Shiv Mandir Location 28",
+    "category": "Shiv Mandir",
+    "lat": 28.6553,
+    "lon": 77.45248,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_29",
+    "name": "Shiv Mandir Location 29",
+    "category": "Shiv Mandir",
+    "lat": 28.65338,
+    "lon": 77.45352,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_30",
+    "name": "Shiv Mandir Location 30",
+    "category": "Shiv Mandir",
+    "lat": 28.66369,
+    "lon": 77.463993,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_31",
+    "name": "Shiv Mandir Location 31",
+    "category": "Shiv Mandir",
+    "lat": 28.693569,
+    "lon": 77.487154,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_32",
+    "name": "Shiv Mandir Location 32",
+    "category": "Shiv Mandir",
+    "lat": 28.692145,
+    "lon": 77.49307,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_33",
+    "name": "Shiv Mandir Location 33",
+    "category": "Shiv Mandir",
+    "lat": 28.664292,
+    "lon": 77.465096,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_34",
+    "name": "Shiv Mandir Location 34",
+    "category": "Shiv Mandir",
+    "lat": 28.678278,
+    "lon": 77.449281,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_35",
+    "name": "Shiv Mandir Location 35",
+    "category": "Shiv Mandir",
+    "lat": 28.682501,
+    "lon": 77.481554,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_36",
+    "name": "Shiv Mandir Location 36",
+    "category": "Shiv Mandir",
+    "lat": 28.693437,
+    "lon": 77.448865,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_37",
+    "name": "Shiv Mandir Location 37",
+    "category": "Shiv Mandir",
+    "lat": 28.694416,
+    "lon": 77.462024,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_38",
+    "name": "Shiv Mandir Location 38",
+    "category": "Shiv Mandir",
+    "lat": 28.692227,
+    "lon": 77.466078,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_39",
+    "name": "Shiv Mandir Location 39",
+    "category": "Shiv Mandir",
+    "lat": 28.68706,
+    "lon": 77.45305,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_40",
+    "name": "Shiv Mandir Location 40",
+    "category": "Shiv Mandir",
+    "lat": 28.709834,
+    "lon": 77.494541,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_41",
+    "name": "Shiv Mandir Location 41",
+    "category": "Shiv Mandir",
+    "lat": 28.703442,
+    "lon": 77.485429,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_42",
+    "name": "Shiv Mandir Location 42",
+    "category": "Shiv Mandir",
+    "lat": 28.705821,
+    "lon": 77.448883,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_43",
+    "name": "Shiv Mandir Location 43",
+    "category": "Shiv Mandir",
+    "lat": 28.697278,
+    "lon": 77.48129,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_44",
+    "name": "Shiv Mandir Location 44",
+    "category": "Shiv Mandir",
+    "lat": 28.699848,
+    "lon": 77.480898,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_45",
+    "name": "Shiv Mandir Location 45",
+    "category": "Shiv Mandir",
+    "lat": 28.720794,
+    "lon": 77.465571,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_46",
+    "name": "Shiv Mandir Location 46",
+    "category": "Shiv Mandir",
+    "lat": 28.773261,
+    "lon": 77.476994,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_47",
+    "name": "Shiv Mandir Location 47",
+    "category": "Shiv Mandir",
+    "lat": 28.718292,
+    "lon": 77.46129,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_48",
+    "name": "Shiv Mandir Location 48",
+    "category": "Shiv Mandir",
+    "lat": 28.687007,
+    "lon": 77.417745,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_49",
+    "name": "Shiv Mandir Location 49",
+    "category": "Shiv Mandir",
+    "lat": 28.686271,
+    "lon": 77.409001,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_50",
+    "name": "Shiv Mandir Location 50",
+    "category": "Shiv Mandir",
+    "lat": 28.702949,
+    "lon": 77.432055,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_51",
+    "name": "Shiv Mandir Location 51",
+    "category": "Shiv Mandir",
+    "lat": 28.6699,
+    "lon": 77.4328,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_52",
+    "name": "Shiv Mandir Location 52",
+    "category": "Shiv Mandir",
+    "lat": 28.667763,
+    "lon": 77.490817,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_53",
+    "name": "Shiv Mandir Location 53",
+    "category": "Shiv Mandir",
+    "lat": 28.664031,
+    "lon": 77.50512,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_54",
+    "name": "Shiv Mandir Location 54",
+    "category": "Shiv Mandir",
+    "lat": 28.664425,
+    "lon": 77.504707,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_55",
+    "name": "Shiv Mandir Location 55",
+    "category": "Shiv Mandir",
+    "lat": 28.651596,
+    "lon": 77.509935,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_56",
+    "name": "Shiv Mandir Location 56",
+    "category": "Shiv Mandir",
+    "lat": 28.659478,
+    "lon": 77.482405,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_57",
+    "name": "Shiv Mandir Location 57",
+    "category": "Shiv Mandir",
+    "lat": 28.657053,
+    "lon": 77.522577,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_58",
+    "name": "Shiv Mandir Location 58",
+    "category": "Shiv Mandir",
+    "lat": 28.657366,
+    "lon": 77.528349,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_59",
+    "name": "Shiv Mandir Location 59",
+    "category": "Shiv Mandir",
+    "lat": 28.651094,
+    "lon": 77.529706,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_60",
+    "name": "Shiv Mandir Location 60",
+    "category": "Shiv Mandir",
+    "lat": 28.659254,
+    "lon": 77.540198,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_61",
+    "name": "Shiv Mandir Location 61",
+    "category": "Shiv Mandir",
+    "lat": 28.656615,
+    "lon": 77.552838,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_62",
+    "name": "Shiv Mandir Location 62",
+    "category": "Shiv Mandir",
+    "lat": 28.674165,
+    "lon": 77.51491,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_63",
+    "name": "Shiv Mandir Location 63",
+    "category": "Shiv Mandir",
+    "lat": 28.648904,
+    "lon": 77.494729,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_64",
+    "name": "Shiv Mandir Location 64",
+    "category": "Shiv Mandir",
+    "lat": 28.636721,
+    "lon": 77.475447,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_65",
+    "name": "Shiv Mandir Location 65",
+    "category": "Shiv Mandir",
+    "lat": 28.644131,
+    "lon": 77.47379,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_66",
+    "name": "Shiv Mandir Location 66",
+    "category": "Shiv Mandir",
+    "lat": 28.678633,
+    "lon": 77.52761,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_67",
+    "name": "Shiv Mandir Location 67",
+    "category": "Shiv Mandir",
+    "lat": 28.63483,
+    "lon": 77.440536,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_68",
+    "name": "Shiv Mandir Location 68",
+    "category": "Shiv Mandir",
+    "lat": 28.635824,
+    "lon": 77.438939,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_69",
+    "name": "Shiv Mandir Location 69",
+    "category": "Shiv Mandir",
+    "lat": 28.636224,
+    "lon": 77.437539,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_70",
+    "name": "Shiv Mandir Location 70",
+    "category": "Shiv Mandir",
+    "lat": 28.624788,
+    "lon": 77.433828,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_71",
+    "name": "Shiv Mandir Location 71",
+    "category": "Shiv Mandir",
+    "lat": 28.631759,
+    "lon": 77.438421,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_72",
+    "name": "Shiv Mandir Location 72",
+    "category": "Shiv Mandir",
+    "lat": 28.635424,
+    "lon": 77.433739,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_73",
+    "name": "Shiv Mandir Location 73",
+    "category": "Shiv Mandir",
+    "lat": 28.639859,
+    "lon": 77.408133,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_74",
+    "name": "Shiv Mandir Location 74",
+    "category": "Shiv Mandir",
+    "lat": 28.637841,
+    "lon": 77.401986,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_75",
+    "name": "Shiv Mandir Location 75",
+    "category": "Shiv Mandir",
+    "lat": 28.638841,
+    "lon": 77.404986,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_76",
+    "name": "Shiv Mandir Location 76",
+    "category": "Shiv Mandir",
+    "lat": 28.63746,
+    "lon": 77.401715,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_77",
+    "name": "Shiv Mandir Location 77",
+    "category": "Shiv Mandir",
+    "lat": 28.636101,
+    "lon": 77.424458,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_78",
+    "name": "Shiv Mandir Location 78",
+    "category": "Shiv Mandir",
+    "lat": 28.640254,
+    "lon": 77.418061,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_79",
+    "name": "Shiv Mandir Location 79",
+    "category": "Shiv Mandir",
+    "lat": 28.6701,
+    "lon": 77.4445,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_80",
+    "name": "Shiv Mandir Location 80",
+    "category": "Shiv Mandir",
+    "lat": 28.6748,
+    "lon": 77.3932,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_81",
+    "name": "Shiv Mandir Location 81",
+    "category": "Shiv Mandir",
+    "lat": 28.648945,
+    "lon": 77.32065,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_82",
+    "name": "Shiv Mandir Location 82",
+    "category": "Shiv Mandir",
+    "lat": 28.660398,
+    "lon": 77.333083,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_83",
+    "name": "Shiv Mandir Location 83",
+    "category": "Shiv Mandir",
+    "lat": 28.634133,
+    "lon": 77.357444,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_84",
+    "name": "Shiv Mandir Location 84",
+    "category": "Shiv Mandir",
+    "lat": 28.671945,
+    "lon": 77.352744,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_85",
+    "name": "Shiv Mandir Location 85",
+    "category": "Shiv Mandir",
+    "lat": 28.672221,
+    "lon": 77.352744,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_86",
+    "name": "Shiv Mandir Location 86",
+    "category": "Shiv Mandir",
+    "lat": 28.672359,
+    "lon": 77.352744,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_87",
+    "name": "Shiv Mandir Location 87",
+    "category": "Shiv Mandir",
+    "lat": 28.675604,
+    "lon": 77.414993,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_88",
+    "name": "Shiv Mandir Location 88",
+    "category": "Shiv Mandir",
+    "lat": 28.649762,
+    "lon": 77.386701,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_89",
+    "name": "Shiv Mandir Location 89",
+    "category": "Shiv Mandir",
+    "lat": 28.539152,
+    "lon": 76.968408,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_90",
+    "name": "Shiv Mandir Location 90",
+    "category": "Shiv Mandir",
+    "lat": 28.680215,
+    "lon": 77.342545,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_91",
+    "name": "Shiv Mandir Location 91",
+    "category": "Shiv Mandir",
+    "lat": 28.680544,
+    "lon": 77.095252,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_92",
+    "name": "Shiv Mandir Location 92",
+    "category": "Shiv Mandir",
+    "lat": 28.672083,
+    "lon": 77.352744,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_93",
+    "name": "Shiv Mandir Location 93",
+    "category": "Shiv Mandir",
+    "lat": 28.653076,
+    "lon": 77.363602,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_94",
+    "name": "Shiv Mandir Location 94",
+    "category": "Shiv Mandir",
+    "lat": 28.628556,
+    "lon": 77.350949,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_95",
+    "name": "Shiv Mandir Location 95",
+    "category": "Shiv Mandir",
+    "lat": 28.624913,
+    "lon": 77.35198,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_96",
+    "name": "Shiv Mandir Location 96",
+    "category": "Shiv Mandir",
+    "lat": 28.621753,
+    "lon": 77.343319,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_97",
+    "name": "Shiv Mandir Location 97",
+    "category": "Shiv Mandir",
+    "lat": 28.622241,
+    "lon": 77.345388,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_98",
+    "name": "Shiv Mandir Location 98",
+    "category": "Shiv Mandir",
+    "lat": 28.622462,
+    "lon": 77.346504,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_99",
+    "name": "Shiv Mandir Location 99",
+    "category": "Shiv Mandir",
+    "lat": 28.623201,
+    "lon": 77.346565,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_100",
+    "name": "Shiv Mandir Location 100",
+    "category": "Shiv Mandir",
+    "lat": 28.625616,
+    "lon": 77.343558,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_101",
+    "name": "Shiv Mandir Location 101",
+    "category": "Shiv Mandir",
+    "lat": 28.629192,
+    "lon": 77.346721,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_102",
+    "name": "Shiv Mandir Location 102",
+    "category": "Shiv Mandir",
+    "lat": 28.610011,
+    "lon": 77.349173,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_103",
+    "name": "Shiv Mandir Location 103",
+    "category": "Shiv Mandir",
+    "lat": 28.611061,
+    "lon": 77.349996,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_104",
+    "name": "Shiv Mandir Location 104",
+    "category": "Shiv Mandir",
+    "lat": 28.612665,
+    "lon": 77.350453,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_105",
+    "name": "Shiv Mandir Location 105",
+    "category": "Shiv Mandir",
+    "lat": 28.613258,
+    "lon": 77.346388,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_106",
+    "name": "Shiv Mandir Location 106",
+    "category": "Shiv Mandir",
+    "lat": 28.614432,
+    "lon": 77.443672,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_107",
+    "name": "Shiv Mandir Location 107",
+    "category": "Shiv Mandir",
+    "lat": 28.61488,
+    "lon": 77.34618,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_108",
+    "name": "Shiv Mandir Location 108",
+    "category": "Shiv Mandir",
+    "lat": 28.616192,
+    "lon": 77.345879,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_109",
+    "name": "Shiv Mandir Location 109",
+    "category": "Shiv Mandir",
+    "lat": 28.613796,
+    "lon": 77.344322,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_110",
+    "name": "Shiv Mandir Location 110",
+    "category": "Shiv Mandir",
+    "lat": 28.639473,
+    "lon": 77.333459,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_111",
+    "name": "Shiv Mandir Location 111",
+    "category": "Shiv Mandir",
+    "lat": 28.6432,
+    "lon": 77.3353,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_112",
+    "name": "Shiv Mandir Location 112",
+    "category": "Shiv Mandir",
+    "lat": 28.6418,
+    "lon": 77.3486,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_113",
+    "name": "Shiv Mandir Location 113",
+    "category": "Shiv Mandir",
+    "lat": 28.667,
+    "lon": 77.3695,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_114",
+    "name": "Shiv Mandir Location 114",
+    "category": "Shiv Mandir",
+    "lat": 28.6387,
+    "lon": 77.3229,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_115",
+    "name": "Shiv Mandir Location 115",
+    "category": "Shiv Mandir",
+    "lat": 28.635391,
+    "lon": 77.329389,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_116",
+    "name": "Shiv Mandir Location 116",
+    "category": "Shiv Mandir",
+    "lat": 28.695453,
+    "lon": 77.332358,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_117",
+    "name": "Shiv Mandir Location 117",
+    "category": "Shiv Mandir",
+    "lat": 28.696429,
+    "lon": 77.331416,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_118",
+    "name": "Shiv Mandir Location 118",
+    "category": "Shiv Mandir",
+    "lat": 28.694602,
+    "lon": 77.327026,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_119",
+    "name": "Shiv Mandir Location 119",
+    "category": "Shiv Mandir",
+    "lat": 28.696871,
+    "lon": 77.326504,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_120",
+    "name": "Shiv Mandir Location 120",
+    "category": "Shiv Mandir",
+    "lat": 28.695218,
+    "lon": 77.326414,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_121",
+    "name": "Shiv Mandir Location 121",
+    "category": "Shiv Mandir",
+    "lat": 28.688684,
+    "lon": 77.361587,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_122",
+    "name": "Shiv Mandir Location 122",
+    "category": "Shiv Mandir",
+    "lat": 28.69057,
+    "lon": 77.348113,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_123",
+    "name": "Shiv Mandir Location 123",
+    "category": "Shiv Mandir",
+    "lat": 28.693623,
+    "lon": 77.336576,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_124",
+    "name": "Shiv Mandir Location 124",
+    "category": "Shiv Mandir",
+    "lat": 28.687125,
+    "lon": 77.341323,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_125",
+    "name": "Shiv Mandir Location 125",
+    "category": "Shiv Mandir",
+    "lat": 28.683264,
+    "lon": 77.340932,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_126",
+    "name": "Shiv Mandir Location 126",
+    "category": "Shiv Mandir",
+    "lat": 28.689964,
+    "lon": 77.344438,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_127",
+    "name": "Shiv Mandir Location 127",
+    "category": "Shiv Mandir",
+    "lat": 28.687968,
+    "lon": 77.332033,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_128",
+    "name": "Shiv Mandir Location 128",
+    "category": "Shiv Mandir",
+    "lat": 28.688086,
+    "lon": 77.332592,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_129",
+    "name": "Shiv Mandir Location 129",
+    "category": "Shiv Mandir",
+    "lat": 28.769679,
+    "lon": 77.40458,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_130",
+    "name": "Shiv Mandir Location 130",
+    "category": "Shiv Mandir",
+    "lat": 28.756241,
+    "lon": 77.370223,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_131",
+    "name": "Shiv Mandir Location 131",
+    "category": "Shiv Mandir",
+    "lat": 28.761216,
+    "lon": 77.361865,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_132",
+    "name": "Shiv Mandir Location 132",
+    "category": "Shiv Mandir",
+    "lat": 28.746237,
+    "lon": 77.345529,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_133",
+    "name": "Shiv Mandir Location 133",
+    "category": "Shiv Mandir",
+    "lat": 28.699691,
+    "lon": 77.352912,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_134",
+    "name": "Shiv Mandir Location 134",
+    "category": "Shiv Mandir",
+    "lat": 28.691115,
+    "lon": 77.354443,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_135",
+    "name": "Shiv Mandir Location 135",
+    "category": "Shiv Mandir",
+    "lat": 28.694365,
+    "lon": 77.360535,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_136",
+    "name": "Shiv Mandir Location 136",
+    "category": "Shiv Mandir",
+    "lat": 28.69514,
+    "lon": 77.348391,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_137",
+    "name": "Shiv Mandir Location 137",
+    "category": "Shiv Mandir",
+    "lat": 28.732587,
+    "lon": 77.382263,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_138",
+    "name": "Shiv Mandir Location 138",
+    "category": "Shiv Mandir",
+    "lat": 28.725624,
+    "lon": 77.369395,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_139",
+    "name": "Shiv Mandir Location 139",
+    "category": "Shiv Mandir",
+    "lat": 28.719968,
+    "lon": 77.376136,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_140",
+    "name": "Shiv Mandir Location 140",
+    "category": "Shiv Mandir",
+    "lat": 28.729745,
+    "lon": 77.373198,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_141",
+    "name": "Shiv Mandir Location 141",
+    "category": "Shiv Mandir",
+    "lat": 28.738445,
+    "lon": 77.359234,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_142",
+    "name": "Shiv Mandir Location 142",
+    "category": "Shiv Mandir",
+    "lat": 28.722034,
+    "lon": 77.345204,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_143",
+    "name": "Shiv Mandir Location 143",
+    "category": "Shiv Mandir",
+    "lat": 28.726301,
+    "lon": 77.342763,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_144",
+    "name": "Shiv Mandir Location 144",
+    "category": "Shiv Mandir",
+    "lat": 28.727634,
+    "lon": 77.334368,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_145",
+    "name": "Shiv Mandir Location 145",
+    "category": "Shiv Mandir",
+    "lat": 28.693675,
+    "lon": 77.344357,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_146",
+    "name": "Shiv Mandir Location 146",
+    "category": "Shiv Mandir",
+    "lat": 28.699638,
+    "lon": 77.332499,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_147",
+    "name": "Shiv Mandir Location 147",
+    "category": "Shiv Mandir",
+    "lat": 28.699632,
+    "lon": 77.332889,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_148",
+    "name": "Shiv Mandir Location 148",
+    "category": "Shiv Mandir",
+    "lat": 28.700236,
+    "lon": 77.34025,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_149",
+    "name": "Shiv Mandir Location 149",
+    "category": "Shiv Mandir",
+    "lat": 28.7029,
+    "lon": 77.340041,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_150",
+    "name": "Shiv Mandir Location 150",
+    "category": "Shiv Mandir",
+    "lat": 28.8486,
+    "lon": 77.58742,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_151",
+    "name": "Shiv Mandir Location 151",
+    "category": "Shiv Mandir",
+    "lat": 28.856781,
+    "lon": 77.591887,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_152",
+    "name": "Shiv Mandir Location 152",
+    "category": "Shiv Mandir",
+    "lat": 28.85849,
+    "lon": 77.59159,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_153",
+    "name": "Shiv Mandir Location 153",
+    "category": "Shiv Mandir",
+    "lat": 28.85016,
+    "lon": 77.58666,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_154",
+    "name": "Shiv Mandir Location 154",
+    "category": "Shiv Mandir",
+    "lat": 28.853749,
+    "lon": 77.590306,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_155",
+    "name": "Shiv Mandir Location 155",
+    "category": "Shiv Mandir",
+    "lat": 28.066,
+    "lon": 77.58106,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_156",
+    "name": "Shiv Mandir Location 156",
+    "category": "Shiv Mandir",
+    "lat": 28.86683,
+    "lon": 77.600251,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_157",
+    "name": "Shiv Mandir Location 157",
+    "category": "Shiv Mandir",
+    "lat": 28.84881,
+    "lon": 77.587,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_158",
+    "name": "Shiv Mandir Location 158",
+    "category": "Shiv Mandir",
+    "lat": 28.878097,
+    "lon": 77.535237,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_159",
+    "name": "Shiv Mandir Location 159",
+    "category": "Shiv Mandir",
+    "lat": 28.882058,
+    "lon": 77.430769,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_160",
+    "name": "Shiv Mandir Location 160",
+    "category": "Shiv Mandir",
+    "lat": 28.834729,
+    "lon": 77.523138,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_161",
+    "name": "Shiv Mandir Location 161",
+    "category": "Shiv Mandir",
+    "lat": 28.834775,
+    "lon": 77.523157,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_162",
+    "name": "Shiv Mandir Location 162",
+    "category": "Shiv Mandir",
+    "lat": 28.893501,
+    "lon": 77.458507,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_163",
+    "name": "Shiv Mandir Location 163",
+    "category": "Shiv Mandir",
+    "lat": 28.770097,
+    "lon": 77.513319,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_164",
+    "name": "Shiv Mandir Location 164",
+    "category": "Shiv Mandir",
+    "lat": 28.799297,
+    "lon": 77.520577,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_165",
+    "name": "Shiv Mandir Location 165",
+    "category": "Shiv Mandir",
+    "lat": 28.772288,
+    "lon": 77.623358,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_166",
+    "name": "Shiv Mandir Location 166",
+    "category": "Shiv Mandir",
+    "lat": 28.793482,
+    "lon": 77.631078,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_167",
+    "name": "Shiv Mandir Location 167",
+    "category": "Shiv Mandir",
+    "lat": 28.784561,
+    "lon": 77.650101,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_168",
+    "name": "Shiv Mandir Location 168",
+    "category": "Shiv Mandir",
+    "lat": 28.738324,
+    "lon": 77.629833,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_169",
+    "name": "Shiv Mandir Location 169",
+    "category": "Shiv Mandir",
+    "lat": 28.769979,
+    "lon": 77.509765,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_170",
+    "name": "Shiv Mandir Location 170",
+    "category": "Shiv Mandir",
+    "lat": 28.781332,
+    "lon": 77.494287,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_171",
+    "name": "Shiv Mandir Location 171",
+    "category": "Shiv Mandir",
+    "lat": 28.859614,
+    "lon": 77.417032,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_172",
+    "name": "Shiv Mandir Location 172",
+    "category": "Shiv Mandir",
+    "lat": 28.7528,
+    "lon": 77.4941,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_173",
+    "name": "Shiv Mandir Location 173",
+    "category": "Shiv Mandir",
+    "lat": 28.763663,
+    "lon": 77.506189,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_174",
+    "name": "Shiv Mandir Location 174",
+    "category": "Shiv Mandir",
+    "lat": 28.760006,
+    "lon": 77.50415,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_175",
+    "name": "Shiv Mandir Location 175",
+    "category": "Shiv Mandir",
+    "lat": 28.739582,
+    "lon": 77.298145,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_176",
+    "name": "Shiv Mandir Location 176",
+    "category": "Shiv Mandir",
+    "lat": 28.743149,
+    "lon": 77.29659,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_177",
+    "name": "Shiv Mandir Location 177",
+    "category": "Shiv Mandir",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_178",
+    "name": "Shiv Mandir Location 178",
+    "category": "Shiv Mandir",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_179",
+    "name": "Shiv Mandir Location 179",
+    "category": "Shiv Mandir",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_180",
+    "name": "Shiv Mandir Location 180",
+    "category": "Shiv Mandir",
+    "lat": 28.750308,
+    "lon": 77.30177,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_181",
+    "name": "Shiv Mandir Location 181",
+    "category": "Shiv Mandir",
+    "lat": 28.747441,
+    "lon": 77.288757,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_182",
+    "name": "Shiv Mandir Location 182",
+    "category": "Shiv Mandir",
+    "lat": 28.747441,
+    "lon": 77.288757,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_183",
+    "name": "Shiv Mandir Location 183",
+    "category": "Shiv Mandir",
+    "lat": 28.751034,
+    "lon": 77.315831,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_184",
+    "name": "Shiv Mandir Location 184",
+    "category": "Shiv Mandir",
+    "lat": 28.746965,
+    "lon": 77.313927,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_185",
+    "name": "Shiv Mandir Location 185",
+    "category": "Shiv Mandir",
+    "lat": 28.740478,
+    "lon": 77.311709,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_186",
+    "name": "Shiv Mandir Location 186",
+    "category": "Shiv Mandir",
+    "lat": 28.782625,
+    "lon": 77.280827,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_187",
+    "name": "Shiv Mandir Location 187",
+    "category": "Shiv Mandir",
+    "lat": 28.774288,
+    "lon": 77.280439,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_188",
+    "name": "Shiv Mandir Location 188",
+    "category": "Shiv Mandir",
+    "lat": 28.771098,
+    "lon": 77.286151,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_189",
+    "name": "Shiv Mandir Location 189",
+    "category": "Shiv Mandir",
+    "lat": 28.769576,
+    "lon": 77.275653,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_190",
+    "name": "Shiv Mandir Location 190",
+    "category": "Shiv Mandir",
+    "lat": 28.801489,
+    "lon": 77.235381,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_191",
+    "name": "Shiv Mandir Location 191",
+    "category": "Shiv Mandir",
+    "lat": 28.761956,
+    "lon": 77.263899,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_192",
+    "name": "Shiv Mandir Location 192",
+    "category": "Shiv Mandir",
+    "lat": 28.815412,
+    "lon": 77.27367,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_193",
+    "name": "Shiv Mandir Location 193",
+    "category": "Shiv Mandir",
+    "lat": 28.81533,
+    "lon": 77.271579,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_194",
+    "name": "Shiv Mandir Location 194",
+    "category": "Shiv Mandir",
+    "lat": 28.81467,
+    "lon": 77.275289,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_195",
+    "name": "Shiv Mandir Location 195",
+    "category": "Shiv Mandir",
+    "lat": 28.758114,
+    "lon": 77.250446,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_196",
+    "name": "Shiv Mandir Location 196",
+    "category": "Shiv Mandir",
+    "lat": 28.775754,
+    "lon": 77.269648,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_197",
+    "name": "Shiv Mandir Location 197",
+    "category": "Shiv Mandir",
+    "lat": 28.74081,
+    "lon": 77.26153,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_198",
+    "name": "Shiv Mandir Location 198",
+    "category": "Shiv Mandir",
+    "lat": 28.764605,
+    "lon": 77.277746,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_199",
+    "name": "Shiv Mandir Location 199",
+    "category": "Shiv Mandir",
+    "lat": 28.755484,
+    "lon": 77.277211,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_200",
+    "name": "Shiv Mandir Location 200",
+    "category": "Shiv Mandir",
+    "lat": 28.722955,
+    "lon": 77.32263,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_201",
+    "name": "Shiv Mandir Location 201",
+    "category": "Shiv Mandir",
+    "lat": 28.730506,
+    "lon": 77.328192,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_202",
+    "name": "Shiv Mandir Location 202",
+    "category": "Shiv Mandir",
+    "lat": 28.726909,
+    "lon": 77.324182,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_203",
+    "name": "Shiv Mandir Location 203",
+    "category": "Shiv Mandir",
+    "lat": 28.734397,
+    "lon": 77.322324,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_204",
+    "name": "Shiv Mandir Location 204",
+    "category": "Shiv Mandir",
+    "lat": 28.738616,
+    "lon": 77.303161,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_205",
+    "name": "Shiv Mandir Location 205",
+    "category": "Shiv Mandir",
+    "lat": 28.738618,
+    "lon": 77.30326,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_206",
+    "name": "Shiv Mandir Location 206",
+    "category": "Shiv Mandir",
+    "lat": 28.735856,
+    "lon": 77.29049,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_207",
+    "name": "Shiv Mandir Location 207",
+    "category": "Shiv Mandir",
+    "lat": 28.730976,
+    "lon": 77.291285,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_208",
+    "name": "Shiv Mandir Location 208",
+    "category": "Shiv Mandir",
+    "lat": 28.729792,
+    "lon": 77.291557,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_209",
+    "name": "Shiv Mandir Location 209",
+    "category": "Shiv Mandir",
+    "lat": 28.735954,
+    "lon": 77.297527,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_210",
+    "name": "Shiv Mandir Location 210",
+    "category": "Shiv Mandir",
+    "lat": 28.735886,
+    "lon": 77.29099,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_211",
+    "name": "Shiv Mandir Location 211",
+    "category": "Shiv Mandir",
+    "lat": 28.741623,
+    "lon": 77.295278,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_212",
+    "name": "Shiv Mandir Location 212",
+    "category": "Shiv Mandir",
+    "lat": 28.73959,
+    "lon": 77.2923,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_213",
+    "name": "Shiv Mandir Location 213",
+    "category": "Shiv Mandir",
+    "lat": 28.733067,
+    "lon": 77.294339,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_214",
+    "name": "Shiv Mandir Location 214",
+    "category": "Shiv Mandir",
+    "lat": 28.730816,
+    "lon": 77.292074,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_215",
+    "name": "Shiv Mandir Location 215",
+    "category": "Shiv Mandir",
+    "lat": 28.733034,
+    "lon": 77.294822,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_216",
+    "name": "Shiv Mandir Location 216",
+    "category": "Shiv Mandir",
+    "lat": 28.713374,
+    "lon": 77.288773,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_217",
+    "name": "Shiv Mandir Location 217",
+    "category": "Shiv Mandir",
+    "lat": 28.71791,
+    "lon": 77.300325,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_218",
+    "name": "Shiv Mandir Location 218",
+    "category": "Shiv Mandir",
+    "lat": 28.718392,
+    "lon": 77.309548,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_219",
+    "name": "Shiv Mandir Location 219",
+    "category": "Shiv Mandir",
+    "lat": 28.723144,
+    "lon": 77.302041,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_220",
+    "name": "Shiv Mandir Location 220",
+    "category": "Shiv Mandir",
+    "lat": 28.725499,
+    "lon": 77.302259,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_221",
+    "name": "Shiv Mandir Location 221",
+    "category": "Shiv Mandir",
+    "lat": 28.714973,
+    "lon": 77.306788,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_222",
+    "name": "Shiv Mandir Location 222",
+    "category": "Shiv Mandir",
+    "lat": 28.714555,
+    "lon": 77.303109,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_223",
+    "name": "Shiv Mandir Location 223",
+    "category": "Shiv Mandir",
+    "lat": 28.714315,
+    "lon": 77.302937,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_224",
+    "name": "Shiv Mandir Location 224",
+    "category": "Shiv Mandir",
+    "lat": 28.723103,
+    "lon": 77.322807,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_225",
+    "name": "Shiv Mandir Location 225",
+    "category": "Shiv Mandir",
+    "lat": 28.730228,
+    "lon": 77.30103,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_226",
+    "name": "Shiv Mandir Location 226",
+    "category": "Shiv Mandir",
+    "lat": 28.723956,
+    "lon": 77.328055,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_227",
+    "name": "Shiv Mandir Location 227",
+    "category": "Shiv Mandir",
+    "lat": 28.72134,
+    "lon": 77.321128,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_228",
+    "name": "Shiv Mandir Location 228",
+    "category": "Shiv Mandir",
+    "lat": 28.722494,
+    "lon": 77.32442,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_229",
+    "name": "Shiv Mandir Location 229",
+    "category": "Shiv Mandir",
+    "lat": 28.717541,
+    "lon": 77.310846,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_230",
+    "name": "Shiv Mandir Location 230",
+    "category": "Shiv Mandir",
+    "lat": 28.711393,
+    "lon": 77.294414,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_231",
+    "name": "Shiv Mandir Location 231",
+    "category": "Shiv Mandir",
+    "lat": 28.715236,
+    "lon": 77.30451,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_232",
+    "name": "Shiv Mandir Location 232",
+    "category": "Shiv Mandir",
+    "lat": 28.715949,
+    "lon": 77.306611,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "sm_233",
+    "name": "Shiv Mandir Location 233",
+    "category": "Shiv Mandir",
+    "lat": 28.714555,
+    "lon": 77.303109,
+    "emoji": "🕉️"
+  },
+  {
+    "id": "st_1",
+    "name": "Shivir (Tent) Location 1",
+    "category": "Shivir (Tent)",
+    "lat": 28.666525,
+    "lon": 77.422536,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_2",
+    "name": "Shivir (Tent) Location 2",
+    "category": "Shivir (Tent)",
+    "lat": 28.663325,
+    "lon": 77.423524,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_3",
+    "name": "Shivir (Tent) Location 3",
+    "category": "Shivir (Tent)",
+    "lat": 28.53253,
+    "lon": 77.42365,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_4",
+    "name": "Shivir (Tent) Location 4",
+    "category": "Shivir (Tent)",
+    "lat": 28.53256,
+    "lon": 77.44525,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_5",
+    "name": "Shivir (Tent) Location 5",
+    "category": "Shivir (Tent)",
+    "lat": 28.655712,
+    "lon": 77.409571,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_6",
+    "name": "Shivir (Tent) Location 6",
+    "category": "Shivir (Tent)",
+    "lat": 28.65685,
+    "lon": 77.41911,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_7",
+    "name": "Shivir (Tent) Location 7",
+    "category": "Shivir (Tent)",
+    "lat": 28.66946,
+    "lon": 77.45662,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_8",
+    "name": "Shivir (Tent) Location 8",
+    "category": "Shivir (Tent)",
+    "lat": 28.6553,
+    "lon": 77.45248,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_9",
+    "name": "Shivir (Tent) Location 9",
+    "category": "Shivir (Tent)",
+    "lat": 28.65338,
+    "lon": 77.45352,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_10",
+    "name": "Shivir (Tent) Location 10",
+    "category": "Shivir (Tent)",
+    "lat": 28.66369,
+    "lon": 77.463993,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_11",
+    "name": "Shivir (Tent) Location 11",
+    "category": "Shivir (Tent)",
+    "lat": 28.720823,
+    "lon": 77.465722,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_12",
+    "name": "Shivir (Tent) Location 12",
+    "category": "Shivir (Tent)",
+    "lat": 28.71905,
+    "lon": 77.464576,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_13",
+    "name": "Shivir (Tent) Location 13",
+    "category": "Shivir (Tent)",
+    "lat": 28.684721,
+    "lon": 77.441016,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_14",
+    "name": "Shivir (Tent) Location 14",
+    "category": "Shivir (Tent)",
+    "lat": 28.709665,
+    "lon": 77.455658,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_15",
+    "name": "Shivir (Tent) Location 15",
+    "category": "Shivir (Tent)",
+    "lat": 28.697278,
+    "lon": 77.48129,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_16",
+    "name": "Shivir (Tent) Location 16",
+    "category": "Shivir (Tent)",
+    "lat": 28.697278,
+    "lon": 77.48129,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_17",
+    "name": "Shivir (Tent) Location 17",
+    "category": "Shivir (Tent)",
+    "lat": 28.699848,
+    "lon": 77.480898,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_18",
+    "name": "Shivir (Tent) Location 18",
+    "category": "Shivir (Tent)",
+    "lat": 28.699848,
+    "lon": 77.480898,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_19",
+    "name": "Shivir (Tent) Location 19",
+    "category": "Shivir (Tent)",
+    "lat": 28.698528,
+    "lon": 77.445007,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_20",
+    "name": "Shivir (Tent) Location 20",
+    "category": "Shivir (Tent)",
+    "lat": 28.702015,
+    "lon": 77.448766,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_21",
+    "name": "Shivir (Tent) Location 21",
+    "category": "Shivir (Tent)",
+    "lat": 28.698528,
+    "lon": 77.445007,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_22",
+    "name": "Shivir (Tent) Location 22",
+    "category": "Shivir (Tent)",
+    "lat": 28.696782,
+    "lon": 77.401401,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_23",
+    "name": "Shivir (Tent) Location 23",
+    "category": "Shivir (Tent)",
+    "lat": 28.689401,
+    "lon": 77.435248,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_24",
+    "name": "Shivir (Tent) Location 24",
+    "category": "Shivir (Tent)",
+    "lat": 28.686758,
+    "lon": 77.431752,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_25",
+    "name": "Shivir (Tent) Location 25",
+    "category": "Shivir (Tent)",
+    "lat": 28.679538,
+    "lon": 77.423391,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_26",
+    "name": "Shivir (Tent) Location 26",
+    "category": "Shivir (Tent)",
+    "lat": 28.693074,
+    "lon": 77.436724,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_27",
+    "name": "Shivir (Tent) Location 27",
+    "category": "Shivir (Tent)",
+    "lat": 28.685578,
+    "lon": 77.423443,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_28",
+    "name": "Shivir (Tent) Location 28",
+    "category": "Shivir (Tent)",
+    "lat": 28.691772,
+    "lon": 77.438431,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_29",
+    "name": "Shivir (Tent) Location 29",
+    "category": "Shivir (Tent)",
+    "lat": 28.684033,
+    "lon": 77.429596,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_30",
+    "name": "Shivir (Tent) Location 30",
+    "category": "Shivir (Tent)",
+    "lat": 28.693038,
+    "lon": 77.43879,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_31",
+    "name": "Shivir (Tent) Location 31",
+    "category": "Shivir (Tent)",
+    "lat": 28.678646,
+    "lon": 77.423324,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_32",
+    "name": "Shivir (Tent) Location 32",
+    "category": "Shivir (Tent)",
+    "lat": 28.68065,
+    "lon": 77.420983,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_33",
+    "name": "Shivir (Tent) Location 33",
+    "category": "Shivir (Tent)",
+    "lat": 28.681419,
+    "lon": 77.425427,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_34",
+    "name": "Shivir (Tent) Location 34",
+    "category": "Shivir (Tent)",
+    "lat": 28.677161,
+    "lon": 77.420679,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_35",
+    "name": "Shivir (Tent) Location 35",
+    "category": "Shivir (Tent)",
+    "lat": 28.6891,
+    "lon": 77.43512,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_36",
+    "name": "Shivir (Tent) Location 36",
+    "category": "Shivir (Tent)",
+    "lat": 28.683323,
+    "lon": 77.428244,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_37",
+    "name": "Shivir (Tent) Location 37",
+    "category": "Shivir (Tent)",
+    "lat": 28.674586,
+    "lon": 77.438173,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_38",
+    "name": "Shivir (Tent) Location 38",
+    "category": "Shivir (Tent)",
+    "lat": 28.685349,
+    "lon": 77.430781,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_39",
+    "name": "Shivir (Tent) Location 39",
+    "category": "Shivir (Tent)",
+    "lat": 28.69553,
+    "lon": 77.442509,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_40",
+    "name": "Shivir (Tent) Location 40",
+    "category": "Shivir (Tent)",
+    "lat": 28.673366,
+    "lon": 77.414482,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_41",
+    "name": "Shivir (Tent) Location 41",
+    "category": "Shivir (Tent)",
+    "lat": 28.678667,
+    "lon": 77.527285,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_42",
+    "name": "Shivir (Tent) Location 42",
+    "category": "Shivir (Tent)",
+    "lat": 28.678633,
+    "lon": 77.52761,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_43",
+    "name": "Shivir (Tent) Location 43",
+    "category": "Shivir (Tent)",
+    "lat": 28.685255,
+    "lon": 77.525968,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_44",
+    "name": "Shivir (Tent) Location 44",
+    "category": "Shivir (Tent)",
+    "lat": 28.642294,
+    "lon": 77.5429,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_45",
+    "name": "Shivir (Tent) Location 45",
+    "category": "Shivir (Tent)",
+    "lat": 28.656449,
+    "lon": 77.537625,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_46",
+    "name": "Shivir (Tent) Location 46",
+    "category": "Shivir (Tent)",
+    "lat": 28.662191,
+    "lon": 77.47873,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_47",
+    "name": "Shivir (Tent) Location 47",
+    "category": "Shivir (Tent)",
+    "lat": 28.648582,
+    "lon": 77.469361,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_48",
+    "name": "Shivir (Tent) Location 48",
+    "category": "Shivir (Tent)",
+    "lat": 28.647641,
+    "lon": 77.468792,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_49",
+    "name": "Shivir (Tent) Location 49",
+    "category": "Shivir (Tent)",
+    "lat": 28.636886,
+    "lon": 77.461533,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_50",
+    "name": "Shivir (Tent) Location 50",
+    "category": "Shivir (Tent)",
+    "lat": 28.634506,
+    "lon": 77.44664,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_51",
+    "name": "Shivir (Tent) Location 51",
+    "category": "Shivir (Tent)",
+    "lat": 28.632349,
+    "lon": 77.41301,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_52",
+    "name": "Shivir (Tent) Location 52",
+    "category": "Shivir (Tent)",
+    "lat": 28.630206,
+    "lon": 77.413513,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_53",
+    "name": "Shivir (Tent) Location 53",
+    "category": "Shivir (Tent)",
+    "lat": 28.63975,
+    "lon": 77.40825,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_54",
+    "name": "Shivir (Tent) Location 54",
+    "category": "Shivir (Tent)",
+    "lat": 28.639859,
+    "lon": 77.408133,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_55",
+    "name": "Shivir (Tent) Location 55",
+    "category": "Shivir (Tent)",
+    "lat": 28.649463,
+    "lon": 77.417128,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_56",
+    "name": "Shivir (Tent) Location 56",
+    "category": "Shivir (Tent)",
+    "lat": 28.6675,
+    "lon": 77.38,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_57",
+    "name": "Shivir (Tent) Location 57",
+    "category": "Shivir (Tent)",
+    "lat": 28.6792,
+    "lon": 77.3756,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_58",
+    "name": "Shivir (Tent) Location 58",
+    "category": "Shivir (Tent)",
+    "lat": 28.685399,
+    "lon": 77.371167,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_59",
+    "name": "Shivir (Tent) Location 59",
+    "category": "Shivir (Tent)",
+    "lat": 28.675,
+    "lon": 77.37,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_60",
+    "name": "Shivir (Tent) Location 60",
+    "category": "Shivir (Tent)",
+    "lat": 28.6772,
+    "lon": 77.3458,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_61",
+    "name": "Shivir (Tent) Location 61",
+    "category": "Shivir (Tent)",
+    "lat": 28.6531,
+    "lon": 77.3789,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_62",
+    "name": "Shivir (Tent) Location 62",
+    "category": "Shivir (Tent)",
+    "lat": 28.67,
+    "lon": 77.368,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_63",
+    "name": "Shivir (Tent) Location 63",
+    "category": "Shivir (Tent)",
+    "lat": 28.6628,
+    "lon": 77.3434,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_64",
+    "name": "Shivir (Tent) Location 64",
+    "category": "Shivir (Tent)",
+    "lat": 28.662876,
+    "lon": 77.343407,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_65",
+    "name": "Shivir (Tent) Location 65",
+    "category": "Shivir (Tent)",
+    "lat": 28.6778,
+    "lon": 77.3255,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_66",
+    "name": "Shivir (Tent) Location 66",
+    "category": "Shivir (Tent)",
+    "lat": 28.634504,
+    "lon": 77.341749,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_67",
+    "name": "Shivir (Tent) Location 67",
+    "category": "Shivir (Tent)",
+    "lat": 28.736393,
+    "lon": 77.208629,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_68",
+    "name": "Shivir (Tent) Location 68",
+    "category": "Shivir (Tent)",
+    "lat": 28.661784,
+    "lon": 77.388813,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_69",
+    "name": "Shivir (Tent) Location 69",
+    "category": "Shivir (Tent)",
+    "lat": 28.652639,
+    "lon": 77.385668,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_70",
+    "name": "Shivir (Tent) Location 70",
+    "category": "Shivir (Tent)",
+    "lat": 28.65244,
+    "lon": 77.33201,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_71",
+    "name": "Shivir (Tent) Location 71",
+    "category": "Shivir (Tent)",
+    "lat": 28.652295,
+    "lon": 77.33201,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_72",
+    "name": "Shivir (Tent) Location 72",
+    "category": "Shivir (Tent)",
+    "lat": 28.410114,
+    "lon": 77.87694,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_73",
+    "name": "Shivir (Tent) Location 73",
+    "category": "Shivir (Tent)",
+    "lat": 28.642826,
+    "lon": 77.345407,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_74",
+    "name": "Shivir (Tent) Location 74",
+    "category": "Shivir (Tent)",
+    "lat": 28.636376,
+    "lon": 77.481575,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_75",
+    "name": "Shivir (Tent) Location 75",
+    "category": "Shivir (Tent)",
+    "lat": 28.67273,
+    "lon": 77.311541,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_76",
+    "name": "Shivir (Tent) Location 76",
+    "category": "Shivir (Tent)",
+    "lat": 28.657682,
+    "lon": 77.363577,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_77",
+    "name": "Shivir (Tent) Location 77",
+    "category": "Shivir (Tent)",
+    "lat": 28.637373,
+    "lon": 77.337797,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_78",
+    "name": "Shivir (Tent) Location 78",
+    "category": "Shivir (Tent)",
+    "lat": 28.6432,
+    "lon": 77.3353,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_79",
+    "name": "Shivir (Tent) Location 79",
+    "category": "Shivir (Tent)",
+    "lat": 28.6547,
+    "lon": 77.3481,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_80",
+    "name": "Shivir (Tent) Location 80",
+    "category": "Shivir (Tent)",
+    "lat": 28.694027,
+    "lon": 77.341785,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_81",
+    "name": "Shivir (Tent) Location 81",
+    "category": "Shivir (Tent)",
+    "lat": 28.693075,
+    "lon": 77.345607,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_82",
+    "name": "Shivir (Tent) Location 82",
+    "category": "Shivir (Tent)",
+    "lat": 28.69526,
+    "lon": 77.337407,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_83",
+    "name": "Shivir (Tent) Location 83",
+    "category": "Shivir (Tent)",
+    "lat": 28.696429,
+    "lon": 77.331416,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_84",
+    "name": "Shivir (Tent) Location 84",
+    "category": "Shivir (Tent)",
+    "lat": 28.688574,
+    "lon": 77.361778,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_85",
+    "name": "Shivir (Tent) Location 85",
+    "category": "Shivir (Tent)",
+    "lat": 28.689537,
+    "lon": 77.35659,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_86",
+    "name": "Shivir (Tent) Location 86",
+    "category": "Shivir (Tent)",
+    "lat": 28.696429,
+    "lon": 77.331416,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_87",
+    "name": "Shivir (Tent) Location 87",
+    "category": "Shivir (Tent)",
+    "lat": 28.697624,
+    "lon": 77.32658,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_88",
+    "name": "Shivir (Tent) Location 88",
+    "category": "Shivir (Tent)",
+    "lat": 28.726301,
+    "lon": 77.342763,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_89",
+    "name": "Shivir (Tent) Location 89",
+    "category": "Shivir (Tent)",
+    "lat": 28.727127,
+    "lon": 77.349336,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_90",
+    "name": "Shivir (Tent) Location 90",
+    "category": "Shivir (Tent)",
+    "lat": 28.725882,
+    "lon": 77.335568,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_91",
+    "name": "Shivir (Tent) Location 91",
+    "category": "Shivir (Tent)",
+    "lat": 28.726228,
+    "lon": 77.338564,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_92",
+    "name": "Shivir (Tent) Location 92",
+    "category": "Shivir (Tent)",
+    "lat": 28.732587,
+    "lon": 77.382263,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_93",
+    "name": "Shivir (Tent) Location 93",
+    "category": "Shivir (Tent)",
+    "lat": 28.725496,
+    "lon": 77.333688,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_94",
+    "name": "Shivir (Tent) Location 94",
+    "category": "Shivir (Tent)",
+    "lat": 28.729751,
+    "lon": 77.372074,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_95",
+    "name": "Shivir (Tent) Location 95",
+    "category": "Shivir (Tent)",
+    "lat": 28.729228,
+    "lon": 77.368345,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_96",
+    "name": "Shivir (Tent) Location 96",
+    "category": "Shivir (Tent)",
+    "lat": 28.727678,
+    "lon": 77.361601,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_97",
+    "name": "Shivir (Tent) Location 97",
+    "category": "Shivir (Tent)",
+    "lat": 28.729239,
+    "lon": 77.368015,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_98",
+    "name": "Shivir (Tent) Location 98",
+    "category": "Shivir (Tent)",
+    "lat": 28.695894,
+    "lon": 77.335389,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_99",
+    "name": "Shivir (Tent) Location 99",
+    "category": "Shivir (Tent)",
+    "lat": 28.83194,
+    "lon": 77.57363,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_100",
+    "name": "Shivir (Tent) Location 100",
+    "category": "Shivir (Tent)",
+    "lat": 28.83194,
+    "lon": 77.57363,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_101",
+    "name": "Shivir (Tent) Location 101",
+    "category": "Shivir (Tent)",
+    "lat": 28.83036,
+    "lon": 77.57095,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_102",
+    "name": "Shivir (Tent) Location 102",
+    "category": "Shivir (Tent)",
+    "lat": 28.562,
+    "lon": 77.56573,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_103",
+    "name": "Shivir (Tent) Location 103",
+    "category": "Shivir (Tent)",
+    "lat": 28.82618,
+    "lon": 77.56697,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_104",
+    "name": "Shivir (Tent) Location 104",
+    "category": "Shivir (Tent)",
+    "lat": 28.83306,
+    "lon": 77.57458,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_105",
+    "name": "Shivir (Tent) Location 105",
+    "category": "Shivir (Tent)",
+    "lat": 28.86683,
+    "lon": 77.600281,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_106",
+    "name": "Shivir (Tent) Location 106",
+    "category": "Shivir (Tent)",
+    "lat": 28.872485,
+    "lon": 77.605285,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_107",
+    "name": "Shivir (Tent) Location 107",
+    "category": "Shivir (Tent)",
+    "lat": 28.83879,
+    "lon": 77.582,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_108",
+    "name": "Shivir (Tent) Location 108",
+    "category": "Shivir (Tent)",
+    "lat": 28.84881,
+    "lon": 77.587,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_109",
+    "name": "Shivir (Tent) Location 109",
+    "category": "Shivir (Tent)",
+    "lat": 28.856781,
+    "lon": 77.591887,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_110",
+    "name": "Shivir (Tent) Location 110",
+    "category": "Shivir (Tent)",
+    "lat": 28.889806,
+    "lon": 77.528892,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_111",
+    "name": "Shivir (Tent) Location 111",
+    "category": "Shivir (Tent)",
+    "lat": 28.878834,
+    "lon": 77.528666,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_112",
+    "name": "Shivir (Tent) Location 112",
+    "category": "Shivir (Tent)",
+    "lat": 28.876916,
+    "lon": 77.525994,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_113",
+    "name": "Shivir (Tent) Location 113",
+    "category": "Shivir (Tent)",
+    "lat": 28.85883,
+    "lon": 77.521956,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_114",
+    "name": "Shivir (Tent) Location 114",
+    "category": "Shivir (Tent)",
+    "lat": 28.837145,
+    "lon": 77.5167,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_115",
+    "name": "Shivir (Tent) Location 115",
+    "category": "Shivir (Tent)",
+    "lat": 28.804492,
+    "lon": 77.516519,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_116",
+    "name": "Shivir (Tent) Location 116",
+    "category": "Shivir (Tent)",
+    "lat": 28.789897,
+    "lon": 77.52963,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_117",
+    "name": "Shivir (Tent) Location 117",
+    "category": "Shivir (Tent)",
+    "lat": 28.795867,
+    "lon": 77.517025,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_118",
+    "name": "Shivir (Tent) Location 118",
+    "category": "Shivir (Tent)",
+    "lat": 28.799467,
+    "lon": 77.538847,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_119",
+    "name": "Shivir (Tent) Location 119",
+    "category": "Shivir (Tent)",
+    "lat": 28.90443,
+    "lon": 77.436874,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_120",
+    "name": "Shivir (Tent) Location 120",
+    "category": "Shivir (Tent)",
+    "lat": 28.774777,
+    "lon": 77.623771,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_121",
+    "name": "Shivir (Tent) Location 121",
+    "category": "Shivir (Tent)",
+    "lat": 28.803844,
+    "lon": 77.614728,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_122",
+    "name": "Shivir (Tent) Location 122",
+    "category": "Shivir (Tent)",
+    "lat": 28.807632,
+    "lon": 77.612358,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_123",
+    "name": "Shivir (Tent) Location 123",
+    "category": "Shivir (Tent)",
+    "lat": 28.776341,
+    "lon": 77.622468,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_124",
+    "name": "Shivir (Tent) Location 124",
+    "category": "Shivir (Tent)",
+    "lat": 28.798919,
+    "lon": 77.620981,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_125",
+    "name": "Shivir (Tent) Location 125",
+    "category": "Shivir (Tent)",
+    "lat": 28.751259,
+    "lon": 77.527438,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_126",
+    "name": "Shivir (Tent) Location 126",
+    "category": "Shivir (Tent)",
+    "lat": 28.739661,
+    "lon": 77.531045,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_127",
+    "name": "Shivir (Tent) Location 127",
+    "category": "Shivir (Tent)",
+    "lat": 28.707091,
+    "lon": 77.550295,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_128",
+    "name": "Shivir (Tent) Location 128",
+    "category": "Shivir (Tent)",
+    "lat": 28.707532,
+    "lon": 77.550748,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_129",
+    "name": "Shivir (Tent) Location 129",
+    "category": "Shivir (Tent)",
+    "lat": 28.690221,
+    "lon": 77.558044,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_130",
+    "name": "Shivir (Tent) Location 130",
+    "category": "Shivir (Tent)",
+    "lat": 28.680773,
+    "lon": 77.49637,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_131",
+    "name": "Shivir (Tent) Location 131",
+    "category": "Shivir (Tent)",
+    "lat": 28.680643,
+    "lon": 77.496042,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_132",
+    "name": "Shivir (Tent) Location 132",
+    "category": "Shivir (Tent)",
+    "lat": 28.769914,
+    "lon": 77.509944,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_133",
+    "name": "Shivir (Tent) Location 133",
+    "category": "Shivir (Tent)",
+    "lat": 28.772013,
+    "lon": 77.50749,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_134",
+    "name": "Shivir (Tent) Location 134",
+    "category": "Shivir (Tent)",
+    "lat": 28.770665,
+    "lon": 77.478992,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_135",
+    "name": "Shivir (Tent) Location 135",
+    "category": "Shivir (Tent)",
+    "lat": 28.771736,
+    "lon": 77.481737,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_136",
+    "name": "Shivir (Tent) Location 136",
+    "category": "Shivir (Tent)",
+    "lat": 28.781092,
+    "lon": 77.463992,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_137",
+    "name": "Shivir (Tent) Location 137",
+    "category": "Shivir (Tent)",
+    "lat": 28.772397,
+    "lon": 77.453444,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_138",
+    "name": "Shivir (Tent) Location 138",
+    "category": "Shivir (Tent)",
+    "lat": 28.753195,
+    "lon": 77.433894,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_139",
+    "name": "Shivir (Tent) Location 139",
+    "category": "Shivir (Tent)",
+    "lat": 28.779932,
+    "lon": 77.49775,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_140",
+    "name": "Shivir (Tent) Location 140",
+    "category": "Shivir (Tent)",
+    "lat": 28.78859,
+    "lon": 77.49555,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_141",
+    "name": "Shivir (Tent) Location 141",
+    "category": "Shivir (Tent)",
+    "lat": 28.78565,
+    "lon": 77.49544,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_142",
+    "name": "Shivir (Tent) Location 142",
+    "category": "Shivir (Tent)",
+    "lat": 28.784281,
+    "lon": 77.498184,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_143",
+    "name": "Shivir (Tent) Location 143",
+    "category": "Shivir (Tent)",
+    "lat": 28.819604,
+    "lon": 77.462213,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_144",
+    "name": "Shivir (Tent) Location 144",
+    "category": "Shivir (Tent)",
+    "lat": 28.829074,
+    "lon": 77.450442,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_145",
+    "name": "Shivir (Tent) Location 145",
+    "category": "Shivir (Tent)",
+    "lat": 28.832301,
+    "lon": 77.446458,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_146",
+    "name": "Shivir (Tent) Location 146",
+    "category": "Shivir (Tent)",
+    "lat": 28.83822,
+    "lon": 77.439448,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_147",
+    "name": "Shivir (Tent) Location 147",
+    "category": "Shivir (Tent)",
+    "lat": 28.7493,
+    "lon": 77.4914,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_148",
+    "name": "Shivir (Tent) Location 148",
+    "category": "Shivir (Tent)",
+    "lat": 28.7525,
+    "lon": 77.4949,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_149",
+    "name": "Shivir (Tent) Location 149",
+    "category": "Shivir (Tent)",
+    "lat": 28.7516,
+    "lon": 77.494,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_150",
+    "name": "Shivir (Tent) Location 150",
+    "category": "Shivir (Tent)",
+    "lat": 28.7475,
+    "lon": 77.4895,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_151",
+    "name": "Shivir (Tent) Location 151",
+    "category": "Shivir (Tent)",
+    "lat": 28.773932,
+    "lon": 77.51585,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_152",
+    "name": "Shivir (Tent) Location 152",
+    "category": "Shivir (Tent)",
+    "lat": 28.769892,
+    "lon": 77.510412,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_153",
+    "name": "Shivir (Tent) Location 153",
+    "category": "Shivir (Tent)",
+    "lat": 28.765209,
+    "lon": 77.506294,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_154",
+    "name": "Shivir (Tent) Location 154",
+    "category": "Shivir (Tent)",
+    "lat": 28.763581,
+    "lon": 77.504547,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_155",
+    "name": "Shivir (Tent) Location 155",
+    "category": "Shivir (Tent)",
+    "lat": 28.815907,
+    "lon": 77.276479,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_156",
+    "name": "Shivir (Tent) Location 156",
+    "category": "Shivir (Tent)",
+    "lat": 28.815243,
+    "lon": 77.274072,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_157",
+    "name": "Shivir (Tent) Location 157",
+    "category": "Shivir (Tent)",
+    "lat": 28.78255,
+    "lon": 77.253097,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_158",
+    "name": "Shivir (Tent) Location 158",
+    "category": "Shivir (Tent)",
+    "lat": 28.786468,
+    "lon": 77.277697,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_159",
+    "name": "Shivir (Tent) Location 159",
+    "category": "Shivir (Tent)",
+    "lat": 28.74081,
+    "lon": 77.26153,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_160",
+    "name": "Shivir (Tent) Location 160",
+    "category": "Shivir (Tent)",
+    "lat": 28.764605,
+    "lon": 77.277746,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_161",
+    "name": "Shivir (Tent) Location 161",
+    "category": "Shivir (Tent)",
+    "lat": 28.755484,
+    "lon": 77.277211,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_162",
+    "name": "Shivir (Tent) Location 162",
+    "category": "Shivir (Tent)",
+    "lat": 28.723978,
+    "lon": 77.328175,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_163",
+    "name": "Shivir (Tent) Location 163",
+    "category": "Shivir (Tent)",
+    "lat": 28.722449,
+    "lon": 77.324196,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_164",
+    "name": "Shivir (Tent) Location 164",
+    "category": "Shivir (Tent)",
+    "lat": 28.72134,
+    "lon": 77.321128,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_165",
+    "name": "Shivir (Tent) Location 165",
+    "category": "Shivir (Tent)",
+    "lat": 28.717541,
+    "lon": 77.310846,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_166",
+    "name": "Shivir (Tent) Location 166",
+    "category": "Shivir (Tent)",
+    "lat": 28.713392,
+    "lon": 77.299821,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_167",
+    "name": "Shivir (Tent) Location 167",
+    "category": "Shivir (Tent)",
+    "lat": 28.715236,
+    "lon": 77.30451,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_168",
+    "name": "Shivir (Tent) Location 168",
+    "category": "Shivir (Tent)",
+    "lat": 28.713392,
+    "lon": 77.299821,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_169",
+    "name": "Shivir (Tent) Location 169",
+    "category": "Shivir (Tent)",
+    "lat": 28.714555,
+    "lon": 77.303109,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_170",
+    "name": "Shivir (Tent) Location 170",
+    "category": "Shivir (Tent)",
+    "lat": 28.71022,
+    "lon": 77.290505,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_171",
+    "name": "Shivir (Tent) Location 171",
+    "category": "Shivir (Tent)",
+    "lat": 28.710165,
+    "lon": 77.291502,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_172",
+    "name": "Shivir (Tent) Location 172",
+    "category": "Shivir (Tent)",
+    "lat": 28.713392,
+    "lon": 77.299821,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_173",
+    "name": "Shivir (Tent) Location 173",
+    "category": "Shivir (Tent)",
+    "lat": 28.710002,
+    "lon": 77.29,
+    "emoji": "⛺"
+  },
+  {
+    "id": "st_174",
+    "name": "Shivir (Tent) Location 174",
+    "category": "Shivir (Tent)",
+    "lat": 28.713492,
+    "lon": 77.294821,
+    "emoji": "⛺"
+  }
 ]
